@@ -1,0 +1,8240 @@
+{
+  "seed": 1234,
+  "initial_board": {
+    "cells": [
+      [
+        6,
+        6,
+        5,
+        3,
+        2,
+        6,
+        1,
+        2
+      ],
+      [
+        1,
+        2,
+        4,
+        1,
+        5,
+        2,
+        5,
+        2
+      ],
+      [
+        5,
+        6,
+        6,
+        2,
+        4,
+        3,
+        2,
+        5
+      ],
+      [
+        6,
+        6,
+        4,
+        6,
+        4,
+        5,
+        6,
+        4
+      ],
+      [
+        1,
+        4,
+        5,
+        2,
+        6,
+        2,
+        5,
+        6
+      ],
+      [
+        3,
+        1,
+        1,
+        5,
+        1,
+        5,
+        1,
+        4
+      ],
+      [
+        4,
+        1,
+        2,
+        6,
+        3,
+        3,
+        4,
+        4
+      ],
+      [
+        2,
+        2,
+        5,
+        2,
+        4,
+        6,
+        3,
+        3
+      ]
+    ],
+    "functions": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "size": 8,
+    "moves_made": 0,
+    "moves_remaining": 99,
+    "score": 0,
+    "has_valid_moves": true
+  },
+  "steps": [
+    {
+      "step": 1,
+      "move": {
+        "from_row": 2,
+        "from_col": 2,
+        "to_row": 3,
+        "to_col": 2
+      },
+      "coach_text": "Swap to make a match of three or more. Some swaps produce specials.",
+      "board_before": {
+        "cells": [
+          [
+            6,
+            6,
+            5,
+            3,
+            2,
+            6,
+            1,
+            2
+          ],
+          [
+            1,
+            2,
+            4,
+            1,
+            5,
+            2,
+            5,
+            2
+          ],
+          [
+            5,
+            6,
+            6,
+            2,
+            4,
+            3,
+            2,
+            5
+          ],
+          [
+            6,
+            6,
+            4,
+            6,
+            4,
+            5,
+            6,
+            4
+          ],
+          [
+            1,
+            4,
+            5,
+            2,
+            6,
+            2,
+            5,
+            6
+          ],
+          [
+            3,
+            1,
+            1,
+            5,
+            1,
+            5,
+            1,
+            4
+          ],
+          [
+            4,
+            1,
+            2,
+            6,
+            3,
+            3,
+            4,
+            4
+          ],
+          [
+            2,
+            2,
+            5,
+            2,
+            4,
+            6,
+            3,
+            3
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 0,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "board_after": {
+        "cells": [
+          [
+            4,
+            2,
+            5,
+            3,
+            2,
+            6,
+            1,
+            2
+          ],
+          [
+            6,
+            5,
+            4,
+            3,
+            5,
+            2,
+            5,
+            2
+          ],
+          [
+            1,
+            6,
+            4,
+            1,
+            4,
+            3,
+            2,
+            5
+          ],
+          [
+            5,
+            2,
+            6,
+            2,
+            4,
+            5,
+            6,
+            4
+          ],
+          [
+            1,
+            4,
+            5,
+            2,
+            6,
+            2,
+            5,
+            6
+          ],
+          [
+            3,
+            1,
+            1,
+            5,
+            1,
+            5,
+            1,
+            4
+          ],
+          [
+            4,
+            1,
+            2,
+            6,
+            3,
+            3,
+            4,
+            4
+          ],
+          [
+            2,
+            2,
+            5,
+            2,
+            4,
+            6,
+            3,
+            3
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 1,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "move_result": {
+        "valid": true,
+        "score_gained": 0,
+        "new_board": {
+          "cells": [
+            [
+              4,
+              2,
+              5,
+              3,
+              2,
+              6,
+              1,
+              2
+            ],
+            [
+              6,
+              5,
+              4,
+              3,
+              5,
+              2,
+              5,
+              2
+            ],
+            [
+              1,
+              6,
+              4,
+              1,
+              4,
+              3,
+              2,
+              5
+            ],
+            [
+              5,
+              2,
+              6,
+              2,
+              4,
+              5,
+              6,
+              4
+            ],
+            [
+              1,
+              4,
+              5,
+              2,
+              6,
+              2,
+              5,
+              6
+            ],
+            [
+              3,
+              1,
+              1,
+              5,
+              1,
+              5,
+              1,
+              4
+            ],
+            [
+              4,
+              1,
+              2,
+              6,
+              3,
+              3,
+              4,
+              4
+            ],
+            [
+              2,
+              2,
+              5,
+              2,
+              4,
+              6,
+              3,
+              3
+            ]
+          ],
+          "functions": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "size": 8,
+          "moves_made": 1,
+          "moves_remaining": 99,
+          "score": 0,
+          "has_valid_moves": true
+        },
+        "matches_found": 1,
+        "cascades": 1,
+        "special_gems_created": 1,
+        "match_completed": false,
+        "match_status": "active",
+        "moves_remaining": 99,
+        "move_number": 1,
+        "cascade_steps": [
+          {
+            "step_number": 1,
+            "removals": [
+              {
+                "row": 2,
+                "col": 1
+              },
+              {
+                "row": 3,
+                "col": 1
+              },
+              {
+                "row": 3,
+                "col": 0
+              },
+              {
+                "row": 3,
+                "col": 3
+              },
+              {
+                "row": 3,
+                "col": 2
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 6,
+                "from_row": 0,
+                "from_col": 0,
+                "to_row": 1,
+                "to_col": 0
+              },
+              {
+                "gem_type": 1,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 2,
+                "to_col": 0
+              },
+              {
+                "gem_type": 5,
+                "from_row": 2,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              },
+              {
+                "gem_type": 6,
+                "from_row": 0,
+                "from_col": 1,
+                "to_row": 2,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 3,
+                "to_col": 1
+              },
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 3,
+                "to_row": 1,
+                "to_col": 3
+              },
+              {
+                "gem_type": 1,
+                "from_row": 1,
+                "from_col": 3,
+                "to_row": 2,
+                "to_col": 3
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 3,
+                "to_row": 3,
+                "to_col": 3
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 4,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 5,
+                "row": 1,
+                "col": 1
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 3
+              }
+            ],
+            "special_gem_created": {
+              "row": 3,
+              "col": 2,
+              "gem_type": -1,
+              "color": 6
+            },
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          }
+        ],
+        "applied_modifiers": [],
+        "raid_result": null,
+        "reward_result": null
+      },
+      "was_valid_match": true,
+      "total_gems_cleared": 5,
+      "chain_count": 1,
+      "special_gems_created": [
+        {
+          "row": 3,
+          "col": 2,
+          "gem_type": "LINE_BLAST_H"
+        }
+      ],
+      "cascade_count": 1
+    },
+    {
+      "step": 2,
+      "move": {
+        "from_row": 4,
+        "from_col": 0,
+        "to_row": 5,
+        "to_col": 0
+      },
+      "coach_text": "Try another swap.",
+      "board_before": {
+        "cells": [
+          [
+            4,
+            2,
+            5,
+            3,
+            2,
+            6,
+            1,
+            2
+          ],
+          [
+            6,
+            5,
+            4,
+            3,
+            5,
+            2,
+            5,
+            2
+          ],
+          [
+            1,
+            6,
+            4,
+            1,
+            4,
+            3,
+            2,
+            5
+          ],
+          [
+            5,
+            2,
+            6,
+            2,
+            4,
+            5,
+            6,
+            4
+          ],
+          [
+            1,
+            4,
+            5,
+            2,
+            6,
+            2,
+            5,
+            6
+          ],
+          [
+            3,
+            1,
+            1,
+            5,
+            1,
+            5,
+            1,
+            4
+          ],
+          [
+            4,
+            1,
+            2,
+            6,
+            3,
+            3,
+            4,
+            4
+          ],
+          [
+            2,
+            2,
+            5,
+            2,
+            4,
+            6,
+            3,
+            3
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 1,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "board_after": {
+        "cells": [
+          [
+            4,
+            2,
+            3,
+            3,
+            2,
+            6,
+            1,
+            2
+          ],
+          [
+            4,
+            5,
+            5,
+            3,
+            5,
+            2,
+            5,
+            2
+          ],
+          [
+            6,
+            2,
+            4,
+            1,
+            4,
+            3,
+            2,
+            5
+          ],
+          [
+            1,
+            5,
+            4,
+            2,
+            4,
+            5,
+            6,
+            4
+          ],
+          [
+            5,
+            6,
+            6,
+            2,
+            6,
+            2,
+            5,
+            6
+          ],
+          [
+            3,
+            2,
+            5,
+            5,
+            1,
+            5,
+            1,
+            4
+          ],
+          [
+            4,
+            4,
+            2,
+            6,
+            3,
+            3,
+            4,
+            4
+          ],
+          [
+            2,
+            2,
+            5,
+            2,
+            4,
+            6,
+            3,
+            3
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 2,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "move_result": {
+        "valid": true,
+        "score_gained": 0,
+        "new_board": {
+          "cells": [
+            [
+              4,
+              2,
+              3,
+              3,
+              2,
+              6,
+              1,
+              2
+            ],
+            [
+              4,
+              5,
+              5,
+              3,
+              5,
+              2,
+              5,
+              2
+            ],
+            [
+              6,
+              2,
+              4,
+              1,
+              4,
+              3,
+              2,
+              5
+            ],
+            [
+              1,
+              5,
+              4,
+              2,
+              4,
+              5,
+              6,
+              4
+            ],
+            [
+              5,
+              6,
+              6,
+              2,
+              6,
+              2,
+              5,
+              6
+            ],
+            [
+              3,
+              2,
+              5,
+              5,
+              1,
+              5,
+              1,
+              4
+            ],
+            [
+              4,
+              4,
+              2,
+              6,
+              3,
+              3,
+              4,
+              4
+            ],
+            [
+              2,
+              2,
+              5,
+              2,
+              4,
+              6,
+              3,
+              3
+            ]
+          ],
+          "functions": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "size": 8,
+          "moves_made": 2,
+          "moves_remaining": 99,
+          "score": 0,
+          "has_valid_moves": true
+        },
+        "matches_found": 1,
+        "cascades": 1,
+        "special_gems_created": 0,
+        "match_completed": false,
+        "match_status": "active",
+        "moves_remaining": 99,
+        "move_number": 2,
+        "cascade_steps": [
+          {
+            "step_number": 1,
+            "removals": [
+              {
+                "row": 6,
+                "col": 1
+              },
+              {
+                "row": 5,
+                "col": 0
+              },
+              {
+                "row": 5,
+                "col": 1
+              },
+              {
+                "row": 5,
+                "col": 2
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 4,
+                "from_row": 0,
+                "from_col": 0,
+                "to_row": 1,
+                "to_col": 0
+              },
+              {
+                "gem_type": 6,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 2,
+                "to_col": 0
+              },
+              {
+                "gem_type": 1,
+                "from_row": 2,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              },
+              {
+                "gem_type": 5,
+                "from_row": 3,
+                "from_col": 0,
+                "to_row": 4,
+                "to_col": 0
+              },
+              {
+                "gem_type": 3,
+                "from_row": 4,
+                "from_col": 0,
+                "to_row": 5,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 0,
+                "from_col": 1,
+                "to_row": 2,
+                "to_col": 1
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 3,
+                "to_col": 1
+              },
+              {
+                "gem_type": 6,
+                "from_row": 2,
+                "from_col": 1,
+                "to_row": 4,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 3,
+                "from_col": 1,
+                "to_row": 5,
+                "to_col": 1
+              },
+              {
+                "gem_type": 4,
+                "from_row": 4,
+                "from_col": 1,
+                "to_row": 6,
+                "to_col": 1
+              },
+              {
+                "gem_type": 5,
+                "from_row": 0,
+                "from_col": 2,
+                "to_row": 1,
+                "to_col": 2
+              },
+              {
+                "gem_type": 4,
+                "from_row": 1,
+                "from_col": 2,
+                "to_row": 2,
+                "to_col": 2
+              },
+              {
+                "gem_type": 4,
+                "from_row": 2,
+                "from_col": 2,
+                "to_row": 3,
+                "to_col": 2
+              },
+              {
+                "gem_type": 6,
+                "from_row": 3,
+                "from_col": 2,
+                "to_row": 4,
+                "to_col": 2
+              },
+              {
+                "gem_type": 5,
+                "from_row": 4,
+                "from_col": 2,
+                "to_row": 5,
+                "to_col": 2
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 4,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 5,
+                "row": 1,
+                "col": 1
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 2
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          }
+        ],
+        "applied_modifiers": [],
+        "raid_result": null,
+        "reward_result": null
+      },
+      "was_valid_match": true,
+      "total_gems_cleared": 4,
+      "chain_count": 1,
+      "special_gems_created": [],
+      "cascade_count": 1
+    },
+    {
+      "step": 3,
+      "move": {
+        "from_row": 6,
+        "from_col": 2,
+        "to_row": 7,
+        "to_col": 2
+      },
+      "coach_text": "Let's make another Line Blast.",
+      "board_before": {
+        "cells": [
+          [
+            4,
+            2,
+            3,
+            3,
+            2,
+            6,
+            1,
+            2
+          ],
+          [
+            4,
+            5,
+            5,
+            3,
+            5,
+            2,
+            5,
+            2
+          ],
+          [
+            6,
+            2,
+            4,
+            1,
+            4,
+            3,
+            2,
+            5
+          ],
+          [
+            1,
+            5,
+            4,
+            2,
+            4,
+            5,
+            6,
+            4
+          ],
+          [
+            5,
+            6,
+            6,
+            2,
+            6,
+            2,
+            5,
+            6
+          ],
+          [
+            3,
+            2,
+            5,
+            5,
+            1,
+            5,
+            1,
+            4
+          ],
+          [
+            4,
+            4,
+            2,
+            6,
+            3,
+            3,
+            4,
+            4
+          ],
+          [
+            2,
+            2,
+            5,
+            2,
+            4,
+            6,
+            3,
+            3
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 2,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "board_after": {
+        "cells": [
+          [
+            3,
+            2,
+            3,
+            5,
+            2,
+            6,
+            1,
+            2
+          ],
+          [
+            2,
+            2,
+            5,
+            3,
+            5,
+            2,
+            5,
+            2
+          ],
+          [
+            2,
+            5,
+            4,
+            3,
+            4,
+            3,
+            2,
+            5
+          ],
+          [
+            6,
+            2,
+            4,
+            1,
+            4,
+            5,
+            6,
+            4
+          ],
+          [
+            1,
+            5,
+            6,
+            2,
+            6,
+            2,
+            5,
+            6
+          ],
+          [
+            5,
+            6,
+            5,
+            2,
+            1,
+            5,
+            1,
+            4
+          ],
+          [
+            3,
+            2,
+            5,
+            5,
+            3,
+            3,
+            4,
+            4
+          ],
+          [
+            4,
+            4,
+            2,
+            6,
+            4,
+            6,
+            3,
+            3
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 3,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "move_result": {
+        "valid": true,
+        "score_gained": 0,
+        "new_board": {
+          "cells": [
+            [
+              3,
+              2,
+              3,
+              5,
+              2,
+              6,
+              1,
+              2
+            ],
+            [
+              2,
+              2,
+              5,
+              3,
+              5,
+              2,
+              5,
+              2
+            ],
+            [
+              2,
+              5,
+              4,
+              3,
+              4,
+              3,
+              2,
+              5
+            ],
+            [
+              6,
+              2,
+              4,
+              1,
+              4,
+              5,
+              6,
+              4
+            ],
+            [
+              1,
+              5,
+              6,
+              2,
+              6,
+              2,
+              5,
+              6
+            ],
+            [
+              5,
+              6,
+              5,
+              2,
+              1,
+              5,
+              1,
+              4
+            ],
+            [
+              3,
+              2,
+              5,
+              5,
+              3,
+              3,
+              4,
+              4
+            ],
+            [
+              4,
+              4,
+              2,
+              6,
+              4,
+              6,
+              3,
+              3
+            ]
+          ],
+          "functions": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "size": 8,
+          "moves_made": 3,
+          "moves_remaining": 99,
+          "score": 0,
+          "has_valid_moves": true
+        },
+        "matches_found": 2,
+        "cascades": 2,
+        "special_gems_created": 1,
+        "match_completed": false,
+        "match_status": "active",
+        "moves_remaining": 99,
+        "move_number": 3,
+        "cascade_steps": [
+          {
+            "step_number": 1,
+            "removals": [
+              {
+                "row": 7,
+                "col": 0
+              },
+              {
+                "row": 7,
+                "col": 1
+              },
+              {
+                "row": 7,
+                "col": 2
+              },
+              {
+                "row": 7,
+                "col": 3
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 4,
+                "from_row": 0,
+                "from_col": 0,
+                "to_row": 1,
+                "to_col": 0
+              },
+              {
+                "gem_type": 4,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 2,
+                "to_col": 0
+              },
+              {
+                "gem_type": 6,
+                "from_row": 2,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              },
+              {
+                "gem_type": 1,
+                "from_row": 3,
+                "from_col": 0,
+                "to_row": 4,
+                "to_col": 0
+              },
+              {
+                "gem_type": 5,
+                "from_row": 4,
+                "from_col": 0,
+                "to_row": 5,
+                "to_col": 0
+              },
+              {
+                "gem_type": 3,
+                "from_row": 5,
+                "from_col": 0,
+                "to_row": 6,
+                "to_col": 0
+              },
+              {
+                "gem_type": 4,
+                "from_row": 6,
+                "from_col": 0,
+                "to_row": 7,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 0,
+                "from_col": 1,
+                "to_row": 1,
+                "to_col": 1
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 2,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 1,
+                "to_row": 3,
+                "to_col": 1
+              },
+              {
+                "gem_type": 5,
+                "from_row": 3,
+                "from_col": 1,
+                "to_row": 4,
+                "to_col": 1
+              },
+              {
+                "gem_type": 6,
+                "from_row": 4,
+                "from_col": 1,
+                "to_row": 5,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 5,
+                "from_col": 1,
+                "to_row": 6,
+                "to_col": 1
+              },
+              {
+                "gem_type": 4,
+                "from_row": 6,
+                "from_col": 1,
+                "to_row": 7,
+                "to_col": 1
+              },
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 3,
+                "to_row": 1,
+                "to_col": 3
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 3,
+                "to_row": 2,
+                "to_col": 3
+              },
+              {
+                "gem_type": 1,
+                "from_row": 2,
+                "from_col": 3,
+                "to_row": 3,
+                "to_col": 3
+              },
+              {
+                "gem_type": 2,
+                "from_row": 3,
+                "from_col": 3,
+                "to_row": 4,
+                "to_col": 3
+              },
+              {
+                "gem_type": 2,
+                "from_row": 4,
+                "from_col": 3,
+                "to_row": 5,
+                "to_col": 3
+              },
+              {
+                "gem_type": 5,
+                "from_row": 5,
+                "from_col": 3,
+                "to_row": 6,
+                "to_col": 3
+              },
+              {
+                "gem_type": 6,
+                "from_row": 6,
+                "from_col": 3,
+                "to_row": 7,
+                "to_col": 3
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 4,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 5,
+                "row": 0,
+                "col": 3
+              }
+            ],
+            "special_gem_created": {
+              "row": 7,
+              "col": 2,
+              "gem_type": -1,
+              "color": 2
+            },
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 2,
+            "removals": [
+              {
+                "row": 1,
+                "col": 0
+              },
+              {
+                "row": 2,
+                "col": 0
+              },
+              {
+                "row": 0,
+                "col": 0
+              }
+            ],
+            "drops": [],
+            "spawns": [
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 2,
+                "col": 0
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          }
+        ],
+        "applied_modifiers": [],
+        "raid_result": null,
+        "reward_result": null
+      },
+      "was_valid_match": true,
+      "total_gems_cleared": 7,
+      "chain_count": 2,
+      "special_gems_created": [
+        {
+          "row": 7,
+          "col": 2,
+          "gem_type": "LINE_BLAST_H"
+        }
+      ],
+      "cascade_count": 2
+    },
+    {
+      "step": 4,
+      "move": {
+        "from_row": 4,
+        "from_col": 2,
+        "to_row": 5,
+        "to_col": 2
+      },
+      "coach_text": "Sometimes you can swap two specials close enough together that they will fuse and form a Mega gem.",
+      "board_before": {
+        "cells": [
+          [
+            3,
+            2,
+            3,
+            5,
+            2,
+            6,
+            1,
+            2
+          ],
+          [
+            2,
+            2,
+            5,
+            3,
+            5,
+            2,
+            5,
+            2
+          ],
+          [
+            2,
+            5,
+            4,
+            3,
+            4,
+            3,
+            2,
+            5
+          ],
+          [
+            6,
+            2,
+            4,
+            1,
+            4,
+            5,
+            6,
+            4
+          ],
+          [
+            1,
+            5,
+            6,
+            2,
+            6,
+            2,
+            5,
+            6
+          ],
+          [
+            5,
+            6,
+            5,
+            2,
+            1,
+            5,
+            1,
+            4
+          ],
+          [
+            3,
+            2,
+            5,
+            5,
+            3,
+            3,
+            4,
+            4
+          ],
+          [
+            4,
+            4,
+            2,
+            6,
+            4,
+            6,
+            3,
+            3
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 3,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "board_after": {
+        "cells": [
+          [
+            3,
+            2,
+            3,
+            5,
+            2,
+            6,
+            1,
+            2
+          ],
+          [
+            2,
+            2,
+            5,
+            3,
+            5,
+            2,
+            5,
+            2
+          ],
+          [
+            2,
+            5,
+            4,
+            3,
+            4,
+            3,
+            2,
+            5
+          ],
+          [
+            6,
+            2,
+            4,
+            1,
+            4,
+            5,
+            6,
+            4
+          ],
+          [
+            1,
+            5,
+            5,
+            2,
+            6,
+            2,
+            5,
+            6
+          ],
+          [
+            5,
+            6,
+            6,
+            2,
+            1,
+            5,
+            1,
+            4
+          ],
+          [
+            3,
+            2,
+            5,
+            5,
+            3,
+            3,
+            4,
+            4
+          ],
+          [
+            4,
+            4,
+            2,
+            6,
+            4,
+            6,
+            3,
+            3
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            11,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 4,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "move_result": {
+        "valid": true,
+        "score_gained": 0,
+        "new_board": {
+          "cells": [
+            [
+              3,
+              2,
+              3,
+              5,
+              2,
+              6,
+              1,
+              2
+            ],
+            [
+              2,
+              2,
+              5,
+              3,
+              5,
+              2,
+              5,
+              2
+            ],
+            [
+              2,
+              5,
+              4,
+              3,
+              4,
+              3,
+              2,
+              5
+            ],
+            [
+              6,
+              2,
+              4,
+              1,
+              4,
+              5,
+              6,
+              4
+            ],
+            [
+              1,
+              5,
+              5,
+              2,
+              6,
+              2,
+              5,
+              6
+            ],
+            [
+              5,
+              6,
+              6,
+              2,
+              1,
+              5,
+              1,
+              4
+            ],
+            [
+              3,
+              2,
+              5,
+              5,
+              3,
+              3,
+              4,
+              4
+            ],
+            [
+              4,
+              4,
+              2,
+              6,
+              4,
+              6,
+              3,
+              3
+            ]
+          ],
+          "functions": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              11,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "size": 8,
+          "moves_made": 4,
+          "moves_remaining": 99,
+          "score": 0,
+          "has_valid_moves": true
+        },
+        "matches_found": 0,
+        "cascades": 1,
+        "special_gems_created": 0,
+        "match_completed": false,
+        "match_status": "active",
+        "moves_remaining": 99,
+        "move_number": 4,
+        "cascade_steps": [
+          {
+            "step_number": 0,
+            "removals": [],
+            "drops": [],
+            "spawns": [],
+            "special_gem_created": null,
+            "special_activations": [],
+            "special_attractions": [
+              {
+                "pos_a_row": 5,
+                "pos_a_col": 2,
+                "pos_b_row": 7,
+                "pos_b_col": 2,
+                "center_row": 6,
+                "center_col": 2,
+                "func_a": 1,
+                "func_b": 1,
+                "mega_func": 11
+              }
+            ],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          }
+        ],
+        "applied_modifiers": [],
+        "raid_result": null,
+        "reward_result": null
+      },
+      "was_valid_match": true,
+      "total_gems_cleared": 0,
+      "chain_count": 1,
+      "special_gems_created": [],
+      "cascade_count": 1
+    },
+    {
+      "step": 5,
+      "move": {
+        "from_row": 5,
+        "from_col": 0,
+        "to_row": 4,
+        "to_col": 0
+      },
+      "coach_text": "Let's match three more tiles so we can be positioned to activate the Mega gem.",
+      "board_before": {
+        "cells": [
+          [
+            3,
+            2,
+            3,
+            5,
+            2,
+            6,
+            1,
+            2
+          ],
+          [
+            2,
+            2,
+            5,
+            3,
+            5,
+            2,
+            5,
+            2
+          ],
+          [
+            2,
+            5,
+            4,
+            3,
+            4,
+            3,
+            2,
+            5
+          ],
+          [
+            6,
+            2,
+            4,
+            1,
+            4,
+            5,
+            6,
+            4
+          ],
+          [
+            1,
+            5,
+            5,
+            2,
+            6,
+            2,
+            5,
+            6
+          ],
+          [
+            5,
+            6,
+            6,
+            2,
+            1,
+            5,
+            1,
+            4
+          ],
+          [
+            3,
+            2,
+            5,
+            5,
+            3,
+            3,
+            4,
+            4
+          ],
+          [
+            4,
+            4,
+            2,
+            6,
+            4,
+            6,
+            3,
+            3
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            11,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 4,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "board_after": {
+        "cells": [
+          [
+            3,
+            5,
+            2,
+            2,
+            1,
+            6,
+            1,
+            2
+          ],
+          [
+            3,
+            2,
+            5,
+            3,
+            5,
+            2,
+            5,
+            2
+          ],
+          [
+            4,
+            2,
+            5,
+            5,
+            4,
+            3,
+            2,
+            5
+          ],
+          [
+            3,
+            5,
+            4,
+            1,
+            4,
+            5,
+            6,
+            4
+          ],
+          [
+            6,
+            2,
+            4,
+            2,
+            6,
+            2,
+            5,
+            6
+          ],
+          [
+            1,
+            6,
+            6,
+            2,
+            1,
+            5,
+            1,
+            4
+          ],
+          [
+            3,
+            2,
+            5,
+            5,
+            3,
+            3,
+            4,
+            4
+          ],
+          [
+            4,
+            4,
+            2,
+            6,
+            4,
+            6,
+            3,
+            3
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            11,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 5,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "move_result": {
+        "valid": true,
+        "score_gained": 0,
+        "new_board": {
+          "cells": [
+            [
+              3,
+              5,
+              2,
+              2,
+              1,
+              6,
+              1,
+              2
+            ],
+            [
+              3,
+              2,
+              5,
+              3,
+              5,
+              2,
+              5,
+              2
+            ],
+            [
+              4,
+              2,
+              5,
+              5,
+              4,
+              3,
+              2,
+              5
+            ],
+            [
+              3,
+              5,
+              4,
+              1,
+              4,
+              5,
+              6,
+              4
+            ],
+            [
+              6,
+              2,
+              4,
+              2,
+              6,
+              2,
+              5,
+              6
+            ],
+            [
+              1,
+              6,
+              6,
+              2,
+              1,
+              5,
+              1,
+              4
+            ],
+            [
+              3,
+              2,
+              5,
+              5,
+              3,
+              3,
+              4,
+              4
+            ],
+            [
+              4,
+              4,
+              2,
+              6,
+              4,
+              6,
+              3,
+              3
+            ]
+          ],
+          "functions": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              4,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              11,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "size": 8,
+          "moves_made": 5,
+          "moves_remaining": 99,
+          "score": 0,
+          "has_valid_moves": true
+        },
+        "matches_found": 4,
+        "cascades": 4,
+        "special_gems_created": 1,
+        "match_completed": false,
+        "match_status": "active",
+        "moves_remaining": 99,
+        "move_number": 5,
+        "cascade_steps": [
+          {
+            "step_number": 1,
+            "removals": [
+              {
+                "row": 4,
+                "col": 0
+              },
+              {
+                "row": 4,
+                "col": 1
+              },
+              {
+                "row": 4,
+                "col": 2
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 0,
+                "to_row": 1,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 2,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              },
+              {
+                "gem_type": 6,
+                "from_row": 3,
+                "from_col": 0,
+                "to_row": 4,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 0,
+                "from_col": 1,
+                "to_row": 1,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 2,
+                "to_col": 1
+              },
+              {
+                "gem_type": 5,
+                "from_row": 2,
+                "from_col": 1,
+                "to_row": 3,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 3,
+                "from_col": 1,
+                "to_row": 4,
+                "to_col": 1
+              },
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 2,
+                "to_row": 1,
+                "to_col": 2
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 2,
+                "to_row": 2,
+                "to_col": 2
+              },
+              {
+                "gem_type": 4,
+                "from_row": 2,
+                "from_col": 2,
+                "to_row": 3,
+                "to_col": 2
+              },
+              {
+                "gem_type": 4,
+                "from_row": 3,
+                "from_col": 2,
+                "to_row": 4,
+                "to_col": 2
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 4,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 5,
+                "row": 0,
+                "col": 2
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 2,
+            "removals": [
+              {
+                "row": 0,
+                "col": 1
+              },
+              {
+                "row": 2,
+                "col": 1
+              },
+              {
+                "row": 1,
+                "col": 1
+              },
+              {
+                "row": 2,
+                "col": 0
+              },
+              {
+                "row": 3,
+                "col": 0
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 4,
+                "from_row": 0,
+                "from_col": 0,
+                "to_row": 2,
+                "to_col": 0
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 3,
+                "row": 1,
+                "col": 1
+              },
+              {
+                "gem_type": 2,
+                "row": 2,
+                "col": 1
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 3,
+            "removals": [
+              {
+                "row": 2,
+                "col": 3
+              },
+              {
+                "row": 1,
+                "col": 1
+              },
+              {
+                "row": 1,
+                "col": 2
+              },
+              {
+                "row": 1,
+                "col": 3
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 2,
+                "from_row": 0,
+                "from_col": 1,
+                "to_row": 1,
+                "to_col": 1
+              },
+              {
+                "gem_type": 5,
+                "from_row": 0,
+                "from_col": 2,
+                "to_row": 1,
+                "to_col": 2
+              },
+              {
+                "gem_type": 5,
+                "from_row": 0,
+                "from_col": 3,
+                "to_row": 2,
+                "to_col": 3
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 2
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 3
+              },
+              {
+                "gem_type": 3,
+                "row": 1,
+                "col": 3
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 4,
+            "removals": [
+              {
+                "row": 0,
+                "col": 1
+              },
+              {
+                "row": 0,
+                "col": 4
+              },
+              {
+                "row": 2,
+                "col": 1
+              },
+              {
+                "row": 1,
+                "col": 1
+              },
+              {
+                "row": 0,
+                "col": 3
+              },
+              {
+                "row": 0,
+                "col": 2
+              },
+              {
+                "row": 1,
+                "col": 0
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 0,
+                "to_row": 1,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 0,
+                "from_col": 1,
+                "to_row": 2,
+                "to_col": 1
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 5,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 1
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 2
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 3
+              },
+              {
+                "gem_type": 1,
+                "row": 0,
+                "col": 4
+              }
+            ],
+            "special_gem_created": {
+              "row": 0,
+              "col": 1,
+              "gem_type": -4,
+              "color": 2
+            },
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          }
+        ],
+        "applied_modifiers": [],
+        "raid_result": null,
+        "reward_result": null
+      },
+      "was_valid_match": true,
+      "total_gems_cleared": 19,
+      "chain_count": 4,
+      "special_gems_created": [
+        {
+          "row": 0,
+          "col": 1,
+          "gem_type": "CHROMATIC_ORB"
+        }
+      ],
+      "cascade_count": 4
+    },
+    {
+      "step": 6,
+      "move": {
+        "from_row": 4,
+        "from_col": 0,
+        "to_row": 5,
+        "to_col": 0
+      },
+      "coach_text": "Specials can be activated by being adjacent to a match, or part of a match if they share the same base color.",
+      "board_before": {
+        "cells": [
+          [
+            3,
+            5,
+            2,
+            2,
+            1,
+            6,
+            1,
+            2
+          ],
+          [
+            3,
+            2,
+            5,
+            3,
+            5,
+            2,
+            5,
+            2
+          ],
+          [
+            4,
+            2,
+            5,
+            5,
+            4,
+            3,
+            2,
+            5
+          ],
+          [
+            3,
+            5,
+            4,
+            1,
+            4,
+            5,
+            6,
+            4
+          ],
+          [
+            6,
+            2,
+            4,
+            2,
+            6,
+            2,
+            5,
+            6
+          ],
+          [
+            1,
+            6,
+            6,
+            2,
+            1,
+            5,
+            1,
+            4
+          ],
+          [
+            3,
+            2,
+            5,
+            5,
+            3,
+            3,
+            4,
+            4
+          ],
+          [
+            4,
+            4,
+            2,
+            6,
+            4,
+            6,
+            3,
+            3
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            11,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 5,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "board_after": {
+        "cells": [
+          [
+            1,
+            1,
+            2,
+            1,
+            4,
+            5,
+            1,
+            1
+          ],
+          [
+            3,
+            2,
+            5,
+            3,
+            3,
+            1,
+            3,
+            3
+          ],
+          [
+            5,
+            2,
+            1,
+            3,
+            5,
+            1,
+            5,
+            5
+          ],
+          [
+            2,
+            1,
+            6,
+            6,
+            1,
+            5,
+            4,
+            1
+          ],
+          [
+            4,
+            6,
+            1,
+            4,
+            5,
+            4,
+            1,
+            6
+          ],
+          [
+            4,
+            3,
+            5,
+            3,
+            4,
+            6,
+            5,
+            5
+          ],
+          [
+            3,
+            2,
+            4,
+            5,
+            4,
+            3,
+            6,
+            4
+          ],
+          [
+            1,
+            5,
+            4,
+            1,
+            6,
+            5,
+            5,
+            6
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 6,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "move_result": {
+        "valid": true,
+        "score_gained": 0,
+        "new_board": {
+          "cells": [
+            [
+              1,
+              1,
+              2,
+              1,
+              4,
+              5,
+              1,
+              1
+            ],
+            [
+              3,
+              2,
+              5,
+              3,
+              3,
+              1,
+              3,
+              3
+            ],
+            [
+              5,
+              2,
+              1,
+              3,
+              5,
+              1,
+              5,
+              5
+            ],
+            [
+              2,
+              1,
+              6,
+              6,
+              1,
+              5,
+              4,
+              1
+            ],
+            [
+              4,
+              6,
+              1,
+              4,
+              5,
+              4,
+              1,
+              6
+            ],
+            [
+              4,
+              3,
+              5,
+              3,
+              4,
+              6,
+              5,
+              5
+            ],
+            [
+              3,
+              2,
+              4,
+              5,
+              4,
+              3,
+              6,
+              4
+            ],
+            [
+              1,
+              5,
+              4,
+              1,
+              6,
+              5,
+              5,
+              6
+            ]
+          ],
+          "functions": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              2,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              4,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "size": 8,
+          "moves_made": 6,
+          "moves_remaining": 99,
+          "score": 0,
+          "has_valid_moves": true
+        },
+        "matches_found": 7,
+        "cascades": 6,
+        "special_gems_created": 2,
+        "match_completed": false,
+        "match_status": "active",
+        "moves_remaining": 99,
+        "move_number": 6,
+        "cascade_steps": [
+          {
+            "step_number": 1,
+            "removals": [
+              {
+                "row": 5,
+                "col": 0
+              },
+              {
+                "row": 5,
+                "col": 1
+              },
+              {
+                "row": 5,
+                "col": 2
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 4,
+                "to_col": 0
+              },
+              {
+                "gem_type": 4,
+                "from_row": 2,
+                "from_col": 0,
+                "to_row": 5,
+                "to_col": 0
+              },
+              {
+                "gem_type": 3,
+                "from_row": 3,
+                "from_col": 0,
+                "to_row": 6,
+                "to_col": 0
+              },
+              {
+                "gem_type": 1,
+                "from_row": 4,
+                "from_col": 0,
+                "to_row": 7,
+                "to_col": 0
+              },
+              {
+                "gem_type": 5,
+                "from_row": 0,
+                "from_col": 1,
+                "to_row": 3,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 4,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 1,
+                "to_row": 5,
+                "to_col": 1
+              },
+              {
+                "gem_type": 5,
+                "from_row": 3,
+                "from_col": 1,
+                "to_row": 6,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 4,
+                "from_col": 1,
+                "to_row": 7,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 0,
+                "from_col": 2,
+                "to_row": 3,
+                "to_col": 2
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 2,
+                "to_row": 4,
+                "to_col": 2
+              },
+              {
+                "gem_type": 5,
+                "from_row": 2,
+                "from_col": 2,
+                "to_row": 5,
+                "to_col": 2
+              },
+              {
+                "gem_type": 4,
+                "from_row": 3,
+                "from_col": 2,
+                "to_row": 6,
+                "to_col": 2
+              },
+              {
+                "gem_type": 4,
+                "from_row": 4,
+                "from_col": 2,
+                "to_row": 7,
+                "to_col": 2
+              },
+              {
+                "gem_type": 2,
+                "from_row": 0,
+                "from_col": 3,
+                "to_row": 3,
+                "to_col": 3
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 3,
+                "to_row": 4,
+                "to_col": 3
+              },
+              {
+                "gem_type": 5,
+                "from_row": 2,
+                "from_col": 3,
+                "to_row": 5,
+                "to_col": 3
+              },
+              {
+                "gem_type": 1,
+                "from_row": 3,
+                "from_col": 3,
+                "to_row": 6,
+                "to_col": 3
+              },
+              {
+                "gem_type": 2,
+                "from_row": 4,
+                "from_col": 3,
+                "to_row": 7,
+                "to_col": 3
+              },
+              {
+                "gem_type": 1,
+                "from_row": 0,
+                "from_col": 4,
+                "to_row": 3,
+                "to_col": 4
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 4,
+                "to_row": 4,
+                "to_col": 4
+              },
+              {
+                "gem_type": 4,
+                "from_row": 2,
+                "from_col": 4,
+                "to_row": 5,
+                "to_col": 4
+              },
+              {
+                "gem_type": 4,
+                "from_row": 3,
+                "from_col": 4,
+                "to_row": 6,
+                "to_col": 4
+              },
+              {
+                "gem_type": 6,
+                "from_row": 4,
+                "from_col": 4,
+                "to_row": 7,
+                "to_col": 4
+              },
+              {
+                "gem_type": 6,
+                "from_row": 0,
+                "from_col": 5,
+                "to_row": 3,
+                "to_col": 5
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 5,
+                "to_row": 4,
+                "to_col": 5
+              },
+              {
+                "gem_type": 3,
+                "from_row": 2,
+                "from_col": 5,
+                "to_row": 5,
+                "to_col": 5
+              },
+              {
+                "gem_type": 5,
+                "from_row": 3,
+                "from_col": 5,
+                "to_row": 6,
+                "to_col": 5
+              },
+              {
+                "gem_type": 2,
+                "from_row": 4,
+                "from_col": 5,
+                "to_row": 7,
+                "to_col": 5
+              },
+              {
+                "gem_type": 1,
+                "from_row": 0,
+                "from_col": 6,
+                "to_row": 3,
+                "to_col": 6
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 6,
+                "to_row": 4,
+                "to_col": 6
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 6,
+                "to_row": 5,
+                "to_col": 6
+              },
+              {
+                "gem_type": 6,
+                "from_row": 3,
+                "from_col": 6,
+                "to_row": 6,
+                "to_col": 6
+              },
+              {
+                "gem_type": 5,
+                "from_row": 4,
+                "from_col": 6,
+                "to_row": 7,
+                "to_col": 6
+              },
+              {
+                "gem_type": 2,
+                "from_row": 0,
+                "from_col": 7,
+                "to_row": 3,
+                "to_col": 7
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 7,
+                "to_row": 4,
+                "to_col": 7
+              },
+              {
+                "gem_type": 5,
+                "from_row": 2,
+                "from_col": 7,
+                "to_row": 5,
+                "to_col": 7
+              },
+              {
+                "gem_type": 4,
+                "from_row": 3,
+                "from_col": 7,
+                "to_row": 6,
+                "to_col": 7
+              },
+              {
+                "gem_type": 6,
+                "from_row": 4,
+                "from_col": 7,
+                "to_row": 7,
+                "to_col": 7
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 4,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 0
+              },
+              {
+                "gem_type": 5,
+                "row": 2,
+                "col": 0
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 3,
+                "row": 1,
+                "col": 1
+              },
+              {
+                "gem_type": 5,
+                "row": 2,
+                "col": 1
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 2
+              },
+              {
+                "gem_type": 5,
+                "row": 1,
+                "col": 2
+              },
+              {
+                "gem_type": 5,
+                "row": 2,
+                "col": 2
+              },
+              {
+                "gem_type": 6,
+                "row": 0,
+                "col": 3
+              },
+              {
+                "gem_type": 4,
+                "row": 1,
+                "col": 3
+              },
+              {
+                "gem_type": 3,
+                "row": 2,
+                "col": 3
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 4
+              },
+              {
+                "gem_type": 5,
+                "row": 1,
+                "col": 4
+              },
+              {
+                "gem_type": 2,
+                "row": 2,
+                "col": 4
+              },
+              {
+                "gem_type": 5,
+                "row": 0,
+                "col": 5
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 5
+              },
+              {
+                "gem_type": 4,
+                "row": 2,
+                "col": 5
+              },
+              {
+                "gem_type": 5,
+                "row": 0,
+                "col": 6
+              },
+              {
+                "gem_type": 4,
+                "row": 1,
+                "col": 6
+              },
+              {
+                "gem_type": 2,
+                "row": 2,
+                "col": 6
+              },
+              {
+                "gem_type": 6,
+                "row": 0,
+                "col": 7
+              },
+              {
+                "gem_type": 6,
+                "row": 1,
+                "col": 7
+              },
+              {
+                "gem_type": 6,
+                "row": 2,
+                "col": 7
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [
+              {
+                "gem_type": -1,
+                "row": 6,
+                "col": 2,
+                "affected": [
+                  {
+                    "row": 5,
+                    "col": 0
+                  },
+                  {
+                    "row": 5,
+                    "col": 1
+                  },
+                  {
+                    "row": 5,
+                    "col": 2
+                  },
+                  {
+                    "row": 5,
+                    "col": 3
+                  },
+                  {
+                    "row": 5,
+                    "col": 4
+                  },
+                  {
+                    "row": 5,
+                    "col": 5
+                  },
+                  {
+                    "row": 5,
+                    "col": 6
+                  },
+                  {
+                    "row": 5,
+                    "col": 7
+                  },
+                  {
+                    "row": 6,
+                    "col": 0
+                  },
+                  {
+                    "row": 6,
+                    "col": 1
+                  },
+                  {
+                    "row": 6,
+                    "col": 2
+                  },
+                  {
+                    "row": 6,
+                    "col": 3
+                  },
+                  {
+                    "row": 6,
+                    "col": 4
+                  },
+                  {
+                    "row": 6,
+                    "col": 5
+                  },
+                  {
+                    "row": 6,
+                    "col": 6
+                  },
+                  {
+                    "row": 6,
+                    "col": 7
+                  },
+                  {
+                    "row": 7,
+                    "col": 0
+                  },
+                  {
+                    "row": 7,
+                    "col": 1
+                  },
+                  {
+                    "row": 7,
+                    "col": 2
+                  },
+                  {
+                    "row": 7,
+                    "col": 3
+                  },
+                  {
+                    "row": 7,
+                    "col": 4
+                  },
+                  {
+                    "row": 7,
+                    "col": 5
+                  },
+                  {
+                    "row": 7,
+                    "col": 6
+                  },
+                  {
+                    "row": 7,
+                    "col": 7
+                  }
+                ],
+                "is_mega": true,
+                "mega_func": 11
+              }
+            ],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 2,
+            "removals": [
+              {
+                "row": 1,
+                "col": 2
+              },
+              {
+                "row": 2,
+                "col": 1
+              },
+              {
+                "row": 3,
+                "col": 1
+              },
+              {
+                "row": 2,
+                "col": 0
+              },
+              {
+                "row": 2,
+                "col": 2
+              },
+              {
+                "row": 0,
+                "col": 7
+              },
+              {
+                "row": 1,
+                "col": 7
+              },
+              {
+                "row": 2,
+                "col": 7
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 4,
+                "from_row": 0,
+                "from_col": 0,
+                "to_row": 1,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 2,
+                "to_col": 0
+              },
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 1,
+                "to_row": 2,
+                "to_col": 1
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 3,
+                "to_col": 1
+              },
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 2,
+                "to_row": 2,
+                "to_col": 2
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 1
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 2
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 2
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 7
+              },
+              {
+                "gem_type": 1,
+                "row": 1,
+                "col": 7
+              },
+              {
+                "gem_type": 6,
+                "row": 2,
+                "col": 7
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 3,
+            "removals": [
+              {
+                "row": 4,
+                "col": 0
+              },
+              {
+                "row": 2,
+                "col": 1
+              },
+              {
+                "row": 3,
+                "col": 1
+              },
+              {
+                "row": 3,
+                "col": 0
+              },
+              {
+                "row": 2,
+                "col": 3
+              },
+              {
+                "row": 2,
+                "col": 2
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 0,
+                "to_row": 2,
+                "to_col": 0
+              },
+              {
+                "gem_type": 4,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 0,
+                "to_row": 4,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 0,
+                "from_col": 1,
+                "to_row": 2,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 3,
+                "to_col": 1
+              },
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 2,
+                "to_row": 1,
+                "to_col": 2
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 2,
+                "to_row": 2,
+                "to_col": 2
+              },
+              {
+                "gem_type": 6,
+                "from_row": 0,
+                "from_col": 3,
+                "to_row": 1,
+                "to_col": 3
+              },
+              {
+                "gem_type": 4,
+                "from_row": 1,
+                "from_col": 3,
+                "to_row": 2,
+                "to_col": 3
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 3,
+                "row": 1,
+                "col": 1
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 2
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 3
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 4,
+            "removals": [
+              {
+                "row": 0,
+                "col": 1
+              },
+              {
+                "row": 4,
+                "col": 0
+              },
+              {
+                "row": 2,
+                "col": 1
+              },
+              {
+                "row": 0,
+                "col": 0
+              },
+              {
+                "row": 3,
+                "col": 1
+              },
+              {
+                "row": 5,
+                "col": 1
+              },
+              {
+                "row": 0,
+                "col": 2
+              },
+              {
+                "row": 3,
+                "col": 3
+              },
+              {
+                "row": 2,
+                "col": 2
+              },
+              {
+                "row": 1,
+                "col": 0
+              },
+              {
+                "row": 3,
+                "col": 2
+              },
+              {
+                "row": 4,
+                "col": 1
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 3,
+                "from_row": 2,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              },
+              {
+                "gem_type": 4,
+                "from_row": 3,
+                "from_col": 0,
+                "to_row": 4,
+                "to_col": 0
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 5,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 3,
+                "from_col": 1,
+                "to_row": 6,
+                "to_col": 1
+              },
+              {
+                "gem_type": 5,
+                "from_row": 6,
+                "from_col": 1,
+                "to_row": 7,
+                "to_col": 1
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 2,
+                "to_row": 3,
+                "to_col": 2
+              },
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 3,
+                "to_row": 2,
+                "to_col": 3
+              },
+              {
+                "gem_type": 6,
+                "from_row": 1,
+                "from_col": 3,
+                "to_row": 3,
+                "to_col": 3
+              },
+              {
+                "gem_type": 4,
+                "from_row": 2,
+                "from_col": 3,
+                "to_row": 4,
+                "to_col": 3
+              },
+              {
+                "gem_type": 3,
+                "from_row": 4,
+                "from_col": 3,
+                "to_row": 5,
+                "to_col": 3
+              },
+              {
+                "gem_type": 5,
+                "from_row": 5,
+                "from_col": 3,
+                "to_row": 6,
+                "to_col": 3
+              },
+              {
+                "gem_type": 1,
+                "from_row": 6,
+                "from_col": 3,
+                "to_row": 7,
+                "to_col": 3
+              },
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 4,
+                "to_row": 1,
+                "to_col": 4
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 4,
+                "to_row": 2,
+                "to_col": 4
+              },
+              {
+                "gem_type": 5,
+                "from_row": 0,
+                "from_col": 5,
+                "to_row": 3,
+                "to_col": 5
+              },
+              {
+                "gem_type": 4,
+                "from_row": 2,
+                "from_col": 5,
+                "to_row": 4,
+                "to_col": 5
+              },
+              {
+                "gem_type": 6,
+                "from_row": 3,
+                "from_col": 5,
+                "to_row": 5,
+                "to_col": 5
+              },
+              {
+                "gem_type": 3,
+                "from_row": 5,
+                "from_col": 5,
+                "to_row": 6,
+                "to_col": 5
+              },
+              {
+                "gem_type": 5,
+                "from_row": 6,
+                "from_col": 5,
+                "to_row": 7,
+                "to_col": 5
+              },
+              {
+                "gem_type": 5,
+                "from_row": 0,
+                "from_col": 6,
+                "to_row": 2,
+                "to_col": 6
+              },
+              {
+                "gem_type": 4,
+                "from_row": 1,
+                "from_col": 6,
+                "to_row": 3,
+                "to_col": 6
+              },
+              {
+                "gem_type": 1,
+                "from_row": 3,
+                "from_col": 6,
+                "to_row": 4,
+                "to_col": 6
+              },
+              {
+                "gem_type": 5,
+                "from_row": 4,
+                "from_col": 6,
+                "to_row": 5,
+                "to_col": 6
+              },
+              {
+                "gem_type": 1,
+                "from_row": 1,
+                "from_col": 7,
+                "to_row": 3,
+                "to_col": 7
+              },
+              {
+                "gem_type": 6,
+                "from_row": 2,
+                "from_col": 7,
+                "to_row": 4,
+                "to_col": 7
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 5,
+                "row": 1,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 2,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 1
+              },
+              {
+                "gem_type": 1,
+                "row": 2,
+                "col": 1
+              },
+              {
+                "gem_type": 3,
+                "row": 3,
+                "col": 1
+              },
+              {
+                "gem_type": 6,
+                "row": 4,
+                "col": 1
+              },
+              {
+                "gem_type": 1,
+                "row": 0,
+                "col": 2
+              },
+              {
+                "gem_type": 5,
+                "row": 1,
+                "col": 2
+              },
+              {
+                "gem_type": 5,
+                "row": 2,
+                "col": 2
+              },
+              {
+                "gem_type": 1,
+                "row": 0,
+                "col": 3
+              },
+              {
+                "gem_type": 3,
+                "row": 1,
+                "col": 3
+              },
+              {
+                "gem_type": 4,
+                "row": 0,
+                "col": 4
+              },
+              {
+                "gem_type": 5,
+                "row": 0,
+                "col": 5
+              },
+              {
+                "gem_type": 1,
+                "row": 1,
+                "col": 5
+              },
+              {
+                "gem_type": 1,
+                "row": 2,
+                "col": 5
+              },
+              {
+                "gem_type": 1,
+                "row": 0,
+                "col": 6
+              },
+              {
+                "gem_type": 3,
+                "row": 1,
+                "col": 6
+              },
+              {
+                "gem_type": 1,
+                "row": 0,
+                "col": 7
+              },
+              {
+                "gem_type": 3,
+                "row": 1,
+                "col": 7
+              },
+              {
+                "gem_type": 5,
+                "row": 2,
+                "col": 7
+              }
+            ],
+            "special_gem_created": {
+              "row": 3,
+              "col": 1,
+              "gem_type": -4,
+              "color": 2
+            },
+            "special_activations": [
+              {
+                "gem_type": -4,
+                "row": 5,
+                "col": 1,
+                "affected": [
+                  {
+                    "row": 0,
+                    "col": 7
+                  },
+                  {
+                    "row": 1,
+                    "col": 5
+                  },
+                  {
+                    "row": 2,
+                    "col": 4
+                  },
+                  {
+                    "row": 2,
+                    "col": 6
+                  },
+                  {
+                    "row": 3,
+                    "col": 7
+                  },
+                  {
+                    "row": 4,
+                    "col": 5
+                  },
+                  {
+                    "row": 4,
+                    "col": 7
+                  },
+                  {
+                    "row": 5,
+                    "col": 1
+                  },
+                  {
+                    "row": 5,
+                    "col": 6
+                  },
+                  {
+                    "row": 7,
+                    "col": 1
+                  },
+                  {
+                    "row": 7,
+                    "col": 3
+                  },
+                  {
+                    "row": 7,
+                    "col": 5
+                  }
+                ],
+                "is_mega": false,
+                "mega_func": null
+              }
+            ],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 5,
+            "removals": [
+              {
+                "row": 3,
+                "col": 1
+              },
+              {
+                "row": 3,
+                "col": 2
+              },
+              {
+                "row": 3,
+                "col": 0
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 0,
+                "to_row": 1,
+                "to_col": 0
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 2,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 0,
+                "from_col": 1,
+                "to_row": 1,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 2,
+                "to_col": 1
+              },
+              {
+                "gem_type": 1,
+                "from_row": 2,
+                "from_col": 1,
+                "to_row": 3,
+                "to_col": 1
+              },
+              {
+                "gem_type": 1,
+                "from_row": 0,
+                "from_col": 2,
+                "to_row": 1,
+                "to_col": 2
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 2,
+                "to_row": 2,
+                "to_col": 2
+              },
+              {
+                "gem_type": 5,
+                "from_row": 2,
+                "from_col": 2,
+                "to_row": 3,
+                "to_col": 2
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 1,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 1,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 6,
+                "row": 0,
+                "col": 2
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 6,
+            "removals": [
+              {
+                "row": 5,
+                "col": 2
+              },
+              {
+                "row": 3,
+                "col": 2
+              },
+              {
+                "row": 4,
+                "col": 2
+              },
+              {
+                "row": 2,
+                "col": 2
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 6,
+                "from_row": 0,
+                "from_col": 2,
+                "to_row": 3,
+                "to_col": 2
+              },
+              {
+                "gem_type": 1,
+                "from_row": 1,
+                "from_col": 2,
+                "to_row": 4,
+                "to_col": 2
+              },
+              {
+                "gem_type": 5,
+                "from_row": 4,
+                "from_col": 2,
+                "to_row": 5,
+                "to_col": 2
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 2
+              },
+              {
+                "gem_type": 5,
+                "row": 1,
+                "col": 2
+              },
+              {
+                "gem_type": 1,
+                "row": 2,
+                "col": 2
+              }
+            ],
+            "special_gem_created": {
+              "row": 4,
+              "col": 2,
+              "gem_type": -2,
+              "color": 5
+            },
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          }
+        ],
+        "applied_modifiers": [],
+        "raid_result": null,
+        "reward_result": null
+      },
+      "was_valid_match": true,
+      "total_gems_cleared": 68,
+      "chain_count": 6,
+      "special_gems_created": [
+        {
+          "row": 3,
+          "col": 1,
+          "gem_type": "CHROMATIC_ORB"
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "gem_type": "LINE_BLAST_V"
+        }
+      ],
+      "cascade_count": 6
+    },
+    {
+      "step": 7,
+      "move": {
+        "from_row": 3,
+        "from_col": 1,
+        "to_row": 3,
+        "to_col": 2
+      },
+      "coach_text": "Now try triggering these two specials in a chain by swapping the highlighted gems.",
+      "board_before": {
+        "cells": [
+          [
+            1,
+            1,
+            2,
+            1,
+            4,
+            5,
+            1,
+            1
+          ],
+          [
+            3,
+            2,
+            5,
+            3,
+            3,
+            1,
+            3,
+            3
+          ],
+          [
+            5,
+            2,
+            1,
+            3,
+            5,
+            1,
+            5,
+            5
+          ],
+          [
+            2,
+            1,
+            6,
+            6,
+            1,
+            5,
+            4,
+            1
+          ],
+          [
+            4,
+            6,
+            1,
+            4,
+            5,
+            4,
+            1,
+            6
+          ],
+          [
+            4,
+            3,
+            5,
+            3,
+            4,
+            6,
+            5,
+            5
+          ],
+          [
+            3,
+            2,
+            4,
+            5,
+            4,
+            3,
+            6,
+            4
+          ],
+          [
+            1,
+            5,
+            4,
+            1,
+            6,
+            5,
+            5,
+            6
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 6,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "board_after": {
+        "cells": [
+          [
+            5,
+            1,
+            6,
+            2,
+            1,
+            3,
+            5,
+            1
+          ],
+          [
+            1,
+            1,
+            3,
+            4,
+            2,
+            6,
+            3,
+            5
+          ],
+          [
+            6,
+            4,
+            6,
+            6,
+            1,
+            2,
+            5,
+            4
+          ],
+          [
+            2,
+            6,
+            5,
+            3,
+            5,
+            2,
+            6,
+            4
+          ],
+          [
+            5,
+            5,
+            6,
+            6,
+            5,
+            1,
+            6,
+            2
+          ],
+          [
+            1,
+            5,
+            1,
+            1,
+            2,
+            6,
+            4,
+            6
+          ],
+          [
+            1,
+            2,
+            2,
+            6,
+            5,
+            6,
+            6,
+            4
+          ],
+          [
+            6,
+            5,
+            4,
+            5,
+            6,
+            5,
+            5,
+            6
+          ]
+        ],
+        "functions": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "size": 8,
+        "moves_made": 7,
+        "moves_remaining": 99,
+        "score": 0,
+        "has_valid_moves": true
+      },
+      "move_result": {
+        "valid": true,
+        "score_gained": 0,
+        "new_board": {
+          "cells": [
+            [
+              5,
+              1,
+              6,
+              2,
+              1,
+              3,
+              5,
+              1
+            ],
+            [
+              1,
+              1,
+              3,
+              4,
+              2,
+              6,
+              3,
+              5
+            ],
+            [
+              6,
+              4,
+              6,
+              6,
+              1,
+              2,
+              5,
+              4
+            ],
+            [
+              2,
+              6,
+              5,
+              3,
+              5,
+              2,
+              6,
+              4
+            ],
+            [
+              5,
+              5,
+              6,
+              6,
+              5,
+              1,
+              6,
+              2
+            ],
+            [
+              1,
+              5,
+              1,
+              1,
+              2,
+              6,
+              4,
+              6
+            ],
+            [
+              1,
+              2,
+              2,
+              6,
+              5,
+              6,
+              6,
+              4
+            ],
+            [
+              6,
+              5,
+              4,
+              5,
+              6,
+              5,
+              5,
+              6
+            ]
+          ],
+          "functions": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "size": 8,
+          "moves_made": 7,
+          "moves_remaining": 99,
+          "score": 0,
+          "has_valid_moves": true
+        },
+        "matches_found": 14,
+        "cascades": 7,
+        "special_gems_created": 2,
+        "match_completed": false,
+        "match_status": "active",
+        "moves_remaining": 99,
+        "move_number": 7,
+        "cascade_steps": [
+          {
+            "step_number": 1,
+            "removals": [
+              {
+                "row": 3,
+                "col": 2
+              },
+              {
+                "row": 4,
+                "col": 2
+              },
+              {
+                "row": 2,
+                "col": 2
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 2,
+                "to_col": 0
+              },
+              {
+                "gem_type": 5,
+                "from_row": 2,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 3,
+                "from_col": 0,
+                "to_row": 4,
+                "to_col": 0
+              },
+              {
+                "gem_type": 4,
+                "from_row": 4,
+                "from_col": 0,
+                "to_row": 5,
+                "to_col": 0
+              },
+              {
+                "gem_type": 4,
+                "from_row": 5,
+                "from_col": 0,
+                "to_row": 6,
+                "to_col": 0
+              },
+              {
+                "gem_type": 3,
+                "from_row": 6,
+                "from_col": 0,
+                "to_row": 7,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 2,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 1,
+                "to_row": 3,
+                "to_col": 1
+              },
+              {
+                "gem_type": 6,
+                "from_row": 3,
+                "from_col": 1,
+                "to_row": 4,
+                "to_col": 1
+              },
+              {
+                "gem_type": 6,
+                "from_row": 4,
+                "from_col": 1,
+                "to_row": 5,
+                "to_col": 1
+              },
+              {
+                "gem_type": 3,
+                "from_row": 5,
+                "from_col": 1,
+                "to_row": 6,
+                "to_col": 1
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 3,
+                "to_row": 2,
+                "to_col": 3
+              },
+              {
+                "gem_type": 3,
+                "from_row": 2,
+                "from_col": 3,
+                "to_row": 3,
+                "to_col": 3
+              },
+              {
+                "gem_type": 6,
+                "from_row": 3,
+                "from_col": 3,
+                "to_row": 4,
+                "to_col": 3
+              },
+              {
+                "gem_type": 4,
+                "from_row": 4,
+                "from_col": 3,
+                "to_row": 5,
+                "to_col": 3
+              },
+              {
+                "gem_type": 3,
+                "from_row": 5,
+                "from_col": 3,
+                "to_row": 6,
+                "to_col": 3
+              },
+              {
+                "gem_type": 5,
+                "from_row": 6,
+                "from_col": 3,
+                "to_row": 7,
+                "to_col": 3
+              },
+              {
+                "gem_type": 4,
+                "from_row": 0,
+                "from_col": 4,
+                "to_row": 1,
+                "to_col": 4
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 4,
+                "to_row": 2,
+                "to_col": 4
+              },
+              {
+                "gem_type": 5,
+                "from_row": 2,
+                "from_col": 4,
+                "to_row": 3,
+                "to_col": 4
+              },
+              {
+                "gem_type": 5,
+                "from_row": 0,
+                "from_col": 5,
+                "to_row": 2,
+                "to_col": 5
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 6,
+                "to_row": 2,
+                "to_col": 6
+              },
+              {
+                "gem_type": 5,
+                "from_row": 2,
+                "from_col": 6,
+                "to_row": 3,
+                "to_col": 6
+              },
+              {
+                "gem_type": 4,
+                "from_row": 3,
+                "from_col": 6,
+                "to_row": 4,
+                "to_col": 6
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 7,
+                "to_row": 2,
+                "to_col": 7
+              },
+              {
+                "gem_type": 5,
+                "from_row": 2,
+                "from_col": 7,
+                "to_row": 3,
+                "to_col": 7
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 4,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 0
+              },
+              {
+                "gem_type": 5,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 3,
+                "row": 1,
+                "col": 1
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 2
+              },
+              {
+                "gem_type": 5,
+                "row": 1,
+                "col": 2
+              },
+              {
+                "gem_type": 3,
+                "row": 2,
+                "col": 2
+              },
+              {
+                "gem_type": 5,
+                "row": 3,
+                "col": 2
+              },
+              {
+                "gem_type": 5,
+                "row": 4,
+                "col": 2
+              },
+              {
+                "gem_type": 6,
+                "row": 5,
+                "col": 2
+              },
+              {
+                "gem_type": 4,
+                "row": 6,
+                "col": 2
+              },
+              {
+                "gem_type": 3,
+                "row": 7,
+                "col": 2
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 3
+              },
+              {
+                "gem_type": 5,
+                "row": 1,
+                "col": 3
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 4
+              },
+              {
+                "gem_type": 5,
+                "row": 0,
+                "col": 5
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 5
+              },
+              {
+                "gem_type": 4,
+                "row": 0,
+                "col": 6
+              },
+              {
+                "gem_type": 5,
+                "row": 1,
+                "col": 6
+              },
+              {
+                "gem_type": 4,
+                "row": 0,
+                "col": 7
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 7
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [
+              {
+                "gem_type": -2,
+                "row": 5,
+                "col": 2,
+                "affected": [
+                  {
+                    "row": 0,
+                    "col": 2
+                  },
+                  {
+                    "row": 1,
+                    "col": 2
+                  },
+                  {
+                    "row": 2,
+                    "col": 2
+                  },
+                  {
+                    "row": 3,
+                    "col": 2
+                  },
+                  {
+                    "row": 4,
+                    "col": 2
+                  },
+                  {
+                    "row": 5,
+                    "col": 2
+                  },
+                  {
+                    "row": 6,
+                    "col": 2
+                  },
+                  {
+                    "row": 7,
+                    "col": 2
+                  }
+                ],
+                "is_mega": false,
+                "mega_func": null
+              },
+              {
+                "gem_type": -4,
+                "row": 6,
+                "col": 1,
+                "affected": [
+                  {
+                    "row": 0,
+                    "col": 0
+                  },
+                  {
+                    "row": 0,
+                    "col": 1
+                  },
+                  {
+                    "row": 0,
+                    "col": 3
+                  },
+                  {
+                    "row": 0,
+                    "col": 6
+                  },
+                  {
+                    "row": 0,
+                    "col": 7
+                  },
+                  {
+                    "row": 1,
+                    "col": 5
+                  },
+                  {
+                    "row": 2,
+                    "col": 5
+                  },
+                  {
+                    "row": 3,
+                    "col": 4
+                  },
+                  {
+                    "row": 3,
+                    "col": 7
+                  },
+                  {
+                    "row": 4,
+                    "col": 6
+                  },
+                  {
+                    "row": 6,
+                    "col": 1
+                  },
+                  {
+                    "row": 7,
+                    "col": 0
+                  },
+                  {
+                    "row": 7,
+                    "col": 3
+                  }
+                ],
+                "is_mega": false,
+                "mega_func": null
+              }
+            ],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 2,
+            "removals": [
+              {
+                "row": 2,
+                "col": 3
+              },
+              {
+                "row": 2,
+                "col": 4
+              },
+              {
+                "row": 3,
+                "col": 3
+              },
+              {
+                "row": 2,
+                "col": 2
+              },
+              {
+                "row": 4,
+                "col": 4
+              },
+              {
+                "row": 3,
+                "col": 4
+              },
+              {
+                "row": 3,
+                "col": 7
+              },
+              {
+                "row": 3,
+                "col": 6
+              },
+              {
+                "row": 2,
+                "col": 5
+              },
+              {
+                "row": 3,
+                "col": 5
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 2,
+                "to_row": 1,
+                "to_col": 2
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 2,
+                "to_row": 2,
+                "to_col": 2
+              },
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 3,
+                "to_row": 2,
+                "to_col": 3
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 3,
+                "to_row": 3,
+                "to_col": 3
+              },
+              {
+                "gem_type": 2,
+                "from_row": 0,
+                "from_col": 4,
+                "to_row": 3,
+                "to_col": 4
+              },
+              {
+                "gem_type": 4,
+                "from_row": 1,
+                "from_col": 4,
+                "to_row": 4,
+                "to_col": 4
+              },
+              {
+                "gem_type": 5,
+                "from_row": 0,
+                "from_col": 5,
+                "to_row": 2,
+                "to_col": 5
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 5,
+                "to_row": 3,
+                "to_col": 5
+              },
+              {
+                "gem_type": 4,
+                "from_row": 0,
+                "from_col": 7,
+                "to_row": 1,
+                "to_col": 7
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 7,
+                "to_row": 2,
+                "to_col": 7
+              },
+              {
+                "gem_type": 3,
+                "from_row": 2,
+                "from_col": 7,
+                "to_row": 3,
+                "to_col": 7
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 2
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 3
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 3
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 4
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 4
+              },
+              {
+                "gem_type": 2,
+                "row": 2,
+                "col": 4
+              },
+              {
+                "gem_type": 1,
+                "row": 0,
+                "col": 5
+              },
+              {
+                "gem_type": 6,
+                "row": 1,
+                "col": 5
+              },
+              {
+                "gem_type": 4,
+                "row": 0,
+                "col": 7
+              }
+            ],
+            "special_gem_created": {
+              "row": 3,
+              "col": 6,
+              "gem_type": -1,
+              "color": 3
+            },
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 3,
+            "removals": [
+              {
+                "row": 4,
+                "col": 4
+              },
+              {
+                "row": 5,
+                "col": 4
+              },
+              {
+                "row": 4,
+                "col": 6
+              },
+              {
+                "row": 6,
+                "col": 4
+              },
+              {
+                "row": 4,
+                "col": 5
+              },
+              {
+                "row": 5,
+                "col": 3
+              },
+              {
+                "row": 3,
+                "col": 2
+              },
+              {
+                "row": 3,
+                "col": 3
+              },
+              {
+                "row": 4,
+                "col": 2
+              },
+              {
+                "row": 2,
+                "col": 2
+              },
+              {
+                "row": 2,
+                "col": 4
+              },
+              {
+                "row": 3,
+                "col": 4
+              },
+              {
+                "row": 0,
+                "col": 3
+              },
+              {
+                "row": 1,
+                "col": 4
+              },
+              {
+                "row": 1,
+                "col": 3
+              },
+              {
+                "row": 3,
+                "col": 5
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 4,
+                "from_row": 0,
+                "from_col": 0,
+                "to_row": 1,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 2,
+                "to_col": 0
+              },
+              {
+                "gem_type": 3,
+                "from_row": 2,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              },
+              {
+                "gem_type": 5,
+                "from_row": 0,
+                "from_col": 1,
+                "to_row": 1,
+                "to_col": 1
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 2,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 1,
+                "to_row": 3,
+                "to_col": 1
+              },
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 2,
+                "to_row": 3,
+                "to_col": 2
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 2,
+                "to_row": 4,
+                "to_col": 2
+              },
+              {
+                "gem_type": 3,
+                "from_row": 2,
+                "from_col": 3,
+                "to_row": 4,
+                "to_col": 3
+              },
+              {
+                "gem_type": 6,
+                "from_row": 4,
+                "from_col": 3,
+                "to_row": 5,
+                "to_col": 3
+              },
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 4,
+                "to_row": 5,
+                "to_col": 4
+              },
+              {
+                "gem_type": 4,
+                "from_row": 4,
+                "from_col": 4,
+                "to_row": 6,
+                "to_col": 4
+              },
+              {
+                "gem_type": 1,
+                "from_row": 0,
+                "from_col": 5,
+                "to_row": 2,
+                "to_col": 5
+              },
+              {
+                "gem_type": 6,
+                "from_row": 1,
+                "from_col": 5,
+                "to_row": 3,
+                "to_col": 5
+              },
+              {
+                "gem_type": 5,
+                "from_row": 2,
+                "from_col": 5,
+                "to_row": 4,
+                "to_col": 5
+              },
+              {
+                "gem_type": 4,
+                "from_row": 0,
+                "from_col": 6,
+                "to_row": 2,
+                "to_col": 6
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 6,
+                "to_row": 3,
+                "to_col": 6
+              },
+              {
+                "gem_type": 3,
+                "from_row": 2,
+                "from_col": 6,
+                "to_row": 4,
+                "to_col": 6
+              },
+              {
+                "gem_type": 4,
+                "from_row": 0,
+                "from_col": 7,
+                "to_row": 1,
+                "to_col": 7
+              },
+              {
+                "gem_type": 4,
+                "from_row": 1,
+                "from_col": 7,
+                "to_row": 2,
+                "to_col": 7
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 7,
+                "to_row": 3,
+                "to_col": 7
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 2
+              },
+              {
+                "gem_type": 3,
+                "row": 1,
+                "col": 2
+              },
+              {
+                "gem_type": 2,
+                "row": 2,
+                "col": 2
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 3
+              },
+              {
+                "gem_type": 6,
+                "row": 1,
+                "col": 3
+              },
+              {
+                "gem_type": 1,
+                "row": 2,
+                "col": 3
+              },
+              {
+                "gem_type": 6,
+                "row": 3,
+                "col": 3
+              },
+              {
+                "gem_type": 1,
+                "row": 0,
+                "col": 4
+              },
+              {
+                "gem_type": 5,
+                "row": 1,
+                "col": 4
+              },
+              {
+                "gem_type": 5,
+                "row": 2,
+                "col": 4
+              },
+              {
+                "gem_type": 2,
+                "row": 3,
+                "col": 4
+              },
+              {
+                "gem_type": 5,
+                "row": 4,
+                "col": 4
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 5
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 5
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 6
+              },
+              {
+                "gem_type": 6,
+                "row": 1,
+                "col": 6
+              },
+              {
+                "gem_type": 5,
+                "row": 0,
+                "col": 7
+              }
+            ],
+            "special_gem_created": {
+              "row": 4,
+              "col": 4,
+              "gem_type": -4,
+              "color": 4
+            },
+            "special_activations": [
+              {
+                "gem_type": -1,
+                "row": 3,
+                "col": 6,
+                "affected": [
+                  {
+                    "row": 3,
+                    "col": 0
+                  },
+                  {
+                    "row": 3,
+                    "col": 1
+                  },
+                  {
+                    "row": 3,
+                    "col": 2
+                  },
+                  {
+                    "row": 3,
+                    "col": 3
+                  },
+                  {
+                    "row": 3,
+                    "col": 4
+                  },
+                  {
+                    "row": 3,
+                    "col": 5
+                  },
+                  {
+                    "row": 3,
+                    "col": 6
+                  },
+                  {
+                    "row": 3,
+                    "col": 7
+                  }
+                ],
+                "is_mega": false,
+                "mega_func": null
+              }
+            ],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 4,
+            "removals": [
+              {
+                "row": 0,
+                "col": 1
+              },
+              {
+                "row": 0,
+                "col": 2
+              },
+              {
+                "row": 0,
+                "col": 0
+              },
+              {
+                "row": 5,
+                "col": 3
+              },
+              {
+                "row": 4,
+                "col": 1
+              },
+              {
+                "row": 5,
+                "col": 1
+              },
+              {
+                "row": 5,
+                "col": 2
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 3,
+                "to_col": 1
+              },
+              {
+                "gem_type": 3,
+                "from_row": 2,
+                "from_col": 1,
+                "to_row": 4,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 3,
+                "from_col": 1,
+                "to_row": 5,
+                "to_col": 1
+              },
+              {
+                "gem_type": 3,
+                "from_row": 1,
+                "from_col": 2,
+                "to_row": 2,
+                "to_col": 2
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 2,
+                "to_row": 3,
+                "to_col": 2
+              },
+              {
+                "gem_type": 3,
+                "from_row": 3,
+                "from_col": 2,
+                "to_row": 4,
+                "to_col": 2
+              },
+              {
+                "gem_type": 3,
+                "from_row": 4,
+                "from_col": 2,
+                "to_row": 5,
+                "to_col": 2
+              },
+              {
+                "gem_type": 3,
+                "from_row": 0,
+                "from_col": 3,
+                "to_row": 1,
+                "to_col": 3
+              },
+              {
+                "gem_type": 6,
+                "from_row": 1,
+                "from_col": 3,
+                "to_row": 2,
+                "to_col": 3
+              },
+              {
+                "gem_type": 1,
+                "from_row": 2,
+                "from_col": 3,
+                "to_row": 3,
+                "to_col": 3
+              },
+              {
+                "gem_type": 6,
+                "from_row": 3,
+                "from_col": 3,
+                "to_row": 4,
+                "to_col": 3
+              },
+              {
+                "gem_type": 3,
+                "from_row": 4,
+                "from_col": 3,
+                "to_row": 5,
+                "to_col": 3
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 5,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 1
+              },
+              {
+                "gem_type": 2,
+                "row": 2,
+                "col": 1
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 2
+              },
+              {
+                "gem_type": 1,
+                "row": 1,
+                "col": 2
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 3
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 5,
+            "removals": [
+              {
+                "row": 5,
+                "col": 4
+              },
+              {
+                "row": 4,
+                "col": 2
+              },
+              {
+                "row": 5,
+                "col": 3
+              },
+              {
+                "row": 6,
+                "col": 3
+              },
+              {
+                "row": 4,
+                "col": 1
+              },
+              {
+                "row": 5,
+                "col": 2
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 4,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 0,
+                "to_row": 4,
+                "to_col": 0
+              },
+              {
+                "gem_type": 2,
+                "from_row": 4,
+                "from_col": 0,
+                "to_row": 5,
+                "to_col": 0
+              },
+              {
+                "gem_type": 4,
+                "from_row": 5,
+                "from_col": 0,
+                "to_row": 6,
+                "to_col": 0
+              },
+              {
+                "gem_type": 4,
+                "from_row": 6,
+                "from_col": 0,
+                "to_row": 7,
+                "to_col": 0
+              },
+              {
+                "gem_type": 5,
+                "from_row": 0,
+                "from_col": 1,
+                "to_row": 2,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 3,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 1,
+                "to_row": 4,
+                "to_col": 1
+              },
+              {
+                "gem_type": 5,
+                "from_row": 3,
+                "from_col": 1,
+                "to_row": 5,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 5,
+                "from_col": 1,
+                "to_row": 6,
+                "to_col": 1
+              },
+              {
+                "gem_type": 2,
+                "from_row": 0,
+                "from_col": 2,
+                "to_row": 4,
+                "to_col": 2
+              },
+              {
+                "gem_type": 1,
+                "from_row": 1,
+                "from_col": 2,
+                "to_row": 5,
+                "to_col": 2
+              },
+              {
+                "gem_type": 2,
+                "from_row": 3,
+                "from_col": 2,
+                "to_row": 6,
+                "to_col": 2
+              },
+              {
+                "gem_type": 4,
+                "from_row": 6,
+                "from_col": 2,
+                "to_row": 7,
+                "to_col": 2
+              },
+              {
+                "gem_type": 6,
+                "from_row": 2,
+                "from_col": 3,
+                "to_row": 4,
+                "to_col": 3
+              },
+              {
+                "gem_type": 1,
+                "from_row": 3,
+                "from_col": 3,
+                "to_row": 5,
+                "to_col": 3
+              },
+              {
+                "gem_type": 6,
+                "from_row": 4,
+                "from_col": 3,
+                "to_row": 6,
+                "to_col": 3
+              },
+              {
+                "gem_type": 1,
+                "from_row": 0,
+                "from_col": 4,
+                "to_row": 2,
+                "to_col": 4
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 4,
+                "to_row": 3,
+                "to_col": 4
+              },
+              {
+                "gem_type": 5,
+                "from_row": 2,
+                "from_col": 4,
+                "to_row": 4,
+                "to_col": 4
+              },
+              {
+                "gem_type": 2,
+                "from_row": 3,
+                "from_col": 4,
+                "to_row": 5,
+                "to_col": 4
+              },
+              {
+                "gem_type": 5,
+                "from_row": 4,
+                "from_col": 4,
+                "to_row": 6,
+                "to_col": 4
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 5,
+                "to_row": 2,
+                "to_col": 5
+              },
+              {
+                "gem_type": 1,
+                "from_row": 2,
+                "from_col": 5,
+                "to_row": 3,
+                "to_col": 5
+              },
+              {
+                "gem_type": 6,
+                "from_row": 3,
+                "from_col": 5,
+                "to_row": 4,
+                "to_col": 5
+              },
+              {
+                "gem_type": 5,
+                "from_row": 4,
+                "from_col": 5,
+                "to_row": 5,
+                "to_col": 5
+              },
+              {
+                "gem_type": 6,
+                "from_row": 5,
+                "from_col": 5,
+                "to_row": 6,
+                "to_col": 5
+              },
+              {
+                "gem_type": 6,
+                "from_row": 1,
+                "from_col": 6,
+                "to_row": 2,
+                "to_col": 6
+              },
+              {
+                "gem_type": 4,
+                "from_row": 2,
+                "from_col": 6,
+                "to_row": 3,
+                "to_col": 6
+              },
+              {
+                "gem_type": 5,
+                "from_row": 3,
+                "from_col": 6,
+                "to_row": 4,
+                "to_col": 6
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 1,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 1,
+                "row": 1,
+                "col": 0
+              },
+              {
+                "gem_type": 6,
+                "row": 2,
+                "col": 0
+              },
+              {
+                "gem_type": 4,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 6,
+                "row": 1,
+                "col": 1
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 2
+              },
+              {
+                "gem_type": 3,
+                "row": 1,
+                "col": 2
+              },
+              {
+                "gem_type": 3,
+                "row": 2,
+                "col": 2
+              },
+              {
+                "gem_type": 6,
+                "row": 3,
+                "col": 2
+              },
+              {
+                "gem_type": 6,
+                "row": 0,
+                "col": 3
+              },
+              {
+                "gem_type": 6,
+                "row": 1,
+                "col": 3
+              },
+              {
+                "gem_type": 6,
+                "row": 2,
+                "col": 3
+              },
+              {
+                "gem_type": 3,
+                "row": 3,
+                "col": 3
+              },
+              {
+                "gem_type": 1,
+                "row": 0,
+                "col": 4
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 4
+              },
+              {
+                "gem_type": 6,
+                "row": 0,
+                "col": 5
+              },
+              {
+                "gem_type": 2,
+                "row": 1,
+                "col": 5
+              },
+              {
+                "gem_type": 5,
+                "row": 0,
+                "col": 6
+              },
+              {
+                "gem_type": 6,
+                "row": 1,
+                "col": 6
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [
+              {
+                "gem_type": -4,
+                "row": 6,
+                "col": 4,
+                "affected": [
+                  {
+                    "row": 0,
+                    "col": 0
+                  },
+                  {
+                    "row": 0,
+                    "col": 3
+                  },
+                  {
+                    "row": 0,
+                    "col": 5
+                  },
+                  {
+                    "row": 0,
+                    "col": 6
+                  },
+                  {
+                    "row": 1,
+                    "col": 3
+                  },
+                  {
+                    "row": 2,
+                    "col": 2
+                  },
+                  {
+                    "row": 3,
+                    "col": 0
+                  },
+                  {
+                    "row": 4,
+                    "col": 6
+                  },
+                  {
+                    "row": 6,
+                    "col": 1
+                  },
+                  {
+                    "row": 6,
+                    "col": 3
+                  },
+                  {
+                    "row": 6,
+                    "col": 4
+                  },
+                  {
+                    "row": 6,
+                    "col": 5
+                  },
+                  {
+                    "row": 7,
+                    "col": 0
+                  },
+                  {
+                    "row": 7,
+                    "col": 2
+                  }
+                ],
+                "is_mega": false,
+                "mega_func": null
+              }
+            ],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 6,
+            "removals": [
+              {
+                "row": 4,
+                "col": 0
+              },
+              {
+                "row": 3,
+                "col": 1
+              },
+              {
+                "row": 4,
+                "col": 2
+              },
+              {
+                "row": 5,
+                "col": 0
+              },
+              {
+                "row": 4,
+                "col": 1
+              },
+              {
+                "row": 4,
+                "col": 6
+              },
+              {
+                "row": 5,
+                "col": 6
+              },
+              {
+                "row": 5,
+                "col": 7
+              },
+              {
+                "row": 5,
+                "col": 5
+              },
+              {
+                "row": 0,
+                "col": 2
+              },
+              {
+                "row": 1,
+                "col": 2
+              },
+              {
+                "row": 2,
+                "col": 2
+              },
+              {
+                "row": 2,
+                "col": 3
+              },
+              {
+                "row": 0,
+                "col": 3
+              },
+              {
+                "row": 1,
+                "col": 3
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 1,
+                "from_row": 0,
+                "from_col": 0,
+                "to_row": 2,
+                "to_col": 0
+              },
+              {
+                "gem_type": 1,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              },
+              {
+                "gem_type": 6,
+                "from_row": 2,
+                "from_col": 0,
+                "to_row": 4,
+                "to_col": 0
+              },
+              {
+                "gem_type": 4,
+                "from_row": 3,
+                "from_col": 0,
+                "to_row": 5,
+                "to_col": 0
+              },
+              {
+                "gem_type": 4,
+                "from_row": 0,
+                "from_col": 1,
+                "to_row": 2,
+                "to_col": 1
+              },
+              {
+                "gem_type": 6,
+                "from_row": 1,
+                "from_col": 1,
+                "to_row": 3,
+                "to_col": 1
+              },
+              {
+                "gem_type": 5,
+                "from_row": 2,
+                "from_col": 1,
+                "to_row": 4,
+                "to_col": 1
+              },
+              {
+                "gem_type": 6,
+                "from_row": 3,
+                "from_col": 2,
+                "to_row": 4,
+                "to_col": 2
+              },
+              {
+                "gem_type": 6,
+                "from_row": 0,
+                "from_col": 5,
+                "to_row": 1,
+                "to_col": 5
+              },
+              {
+                "gem_type": 2,
+                "from_row": 1,
+                "from_col": 5,
+                "to_row": 2,
+                "to_col": 5
+              },
+              {
+                "gem_type": 2,
+                "from_row": 2,
+                "from_col": 5,
+                "to_row": 3,
+                "to_col": 5
+              },
+              {
+                "gem_type": 1,
+                "from_row": 3,
+                "from_col": 5,
+                "to_row": 4,
+                "to_col": 5
+              },
+              {
+                "gem_type": 6,
+                "from_row": 4,
+                "from_col": 5,
+                "to_row": 5,
+                "to_col": 5
+              },
+              {
+                "gem_type": 5,
+                "from_row": 0,
+                "from_col": 6,
+                "to_row": 2,
+                "to_col": 6
+              },
+              {
+                "gem_type": 6,
+                "from_row": 1,
+                "from_col": 6,
+                "to_row": 3,
+                "to_col": 6
+              },
+              {
+                "gem_type": 6,
+                "from_row": 2,
+                "from_col": 6,
+                "to_row": 4,
+                "to_col": 6
+              },
+              {
+                "gem_type": 4,
+                "from_row": 3,
+                "from_col": 6,
+                "to_row": 5,
+                "to_col": 6
+              },
+              {
+                "gem_type": 5,
+                "from_row": 0,
+                "from_col": 7,
+                "to_row": 1,
+                "to_col": 7
+              },
+              {
+                "gem_type": 4,
+                "from_row": 1,
+                "from_col": 7,
+                "to_row": 2,
+                "to_col": 7
+              },
+              {
+                "gem_type": 4,
+                "from_row": 2,
+                "from_col": 7,
+                "to_row": 3,
+                "to_col": 7
+              },
+              {
+                "gem_type": 2,
+                "from_row": 3,
+                "from_col": 7,
+                "to_row": 4,
+                "to_col": 7
+              },
+              {
+                "gem_type": 6,
+                "from_row": 4,
+                "from_col": 7,
+                "to_row": 5,
+                "to_col": 7
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 5,
+                "row": 1,
+                "col": 0
+              },
+              {
+                "gem_type": 1,
+                "row": 0,
+                "col": 1
+              },
+              {
+                "gem_type": 1,
+                "row": 1,
+                "col": 1
+              },
+              {
+                "gem_type": 6,
+                "row": 0,
+                "col": 2
+              },
+              {
+                "gem_type": 3,
+                "row": 1,
+                "col": 2
+              },
+              {
+                "gem_type": 6,
+                "row": 2,
+                "col": 2
+              },
+              {
+                "gem_type": 5,
+                "row": 3,
+                "col": 2
+              },
+              {
+                "gem_type": 2,
+                "row": 0,
+                "col": 3
+              },
+              {
+                "gem_type": 4,
+                "row": 1,
+                "col": 3
+              },
+              {
+                "gem_type": 6,
+                "row": 2,
+                "col": 3
+              },
+              {
+                "gem_type": 3,
+                "row": 0,
+                "col": 5
+              },
+              {
+                "gem_type": 5,
+                "row": 0,
+                "col": 6
+              },
+              {
+                "gem_type": 3,
+                "row": 1,
+                "col": 6
+              },
+              {
+                "gem_type": 1,
+                "row": 0,
+                "col": 7
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          },
+          {
+            "step_number": 7,
+            "removals": [
+              {
+                "row": 7,
+                "col": 0
+              },
+              {
+                "row": 5,
+                "col": 0
+              },
+              {
+                "row": 6,
+                "col": 0
+              }
+            ],
+            "drops": [
+              {
+                "gem_type": 2,
+                "from_row": 0,
+                "from_col": 0,
+                "to_row": 3,
+                "to_col": 0
+              },
+              {
+                "gem_type": 5,
+                "from_row": 1,
+                "from_col": 0,
+                "to_row": 4,
+                "to_col": 0
+              },
+              {
+                "gem_type": 1,
+                "from_row": 2,
+                "from_col": 0,
+                "to_row": 5,
+                "to_col": 0
+              },
+              {
+                "gem_type": 1,
+                "from_row": 3,
+                "from_col": 0,
+                "to_row": 6,
+                "to_col": 0
+              },
+              {
+                "gem_type": 6,
+                "from_row": 4,
+                "from_col": 0,
+                "to_row": 7,
+                "to_col": 0
+              }
+            ],
+            "spawns": [
+              {
+                "gem_type": 5,
+                "row": 0,
+                "col": 0
+              },
+              {
+                "gem_type": 1,
+                "row": 1,
+                "col": 0
+              },
+              {
+                "gem_type": 6,
+                "row": 2,
+                "col": 0
+              }
+            ],
+            "special_gem_created": null,
+            "special_activations": [],
+            "special_attractions": [],
+            "injected_special": null,
+            "injected_activation": null,
+            "injected_drops": [],
+            "injected_spawns": []
+          }
+        ],
+        "applied_modifiers": [],
+        "raid_result": null,
+        "reward_result": null
+      },
+      "was_valid_match": true,
+      "total_gems_cleared": 95,
+      "chain_count": 7,
+      "special_gems_created": [
+        {
+          "row": 3,
+          "col": 6,
+          "gem_type": "LINE_BLAST_H"
+        },
+        {
+          "row": 4,
+          "col": 4,
+          "gem_type": "CHROMATIC_ORB"
+        }
+      ],
+      "cascade_count": 7
+    }
+  ]
+}

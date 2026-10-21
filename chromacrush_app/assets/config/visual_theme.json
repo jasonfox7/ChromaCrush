@@ -1,0 +1,103 @@
+{
+  "version": "1.0",
+  "gem_colors": {
+    "1": "FF2D55",
+    "2": "007AFF",
+    "3": "34C759",
+    "4": "FFCC00",
+    "5": "AF52DE",
+    "6": "FF9500",
+    "7": "1A0A2E"
+  },
+  "gem_shapes": {
+    "1": 0,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 3
+  },
+  "gem_shader": {
+    "pulse_rate": 1.5,
+    "pulse_amplitude": 0.3,
+    "brightness": 1.0,
+    "glow_radius": 0.3
+  },
+  "wall": {
+    "color": "4A4A5A",
+    "shape": 5,
+    "symbol": "\u25A0"
+  },
+  "special_symbols": {
+    "1": "\u2194",
+    "2": "\u2195",
+    "3": "\u2738",
+    "4": "\u2726",
+    "11": "\u2194\u2194",
+    "12": "\u2194\u2195",
+    "13": "\u2194\u2738",
+    "14": "\u2194\u2726",
+    "22": "\u2195\u2195",
+    "23": "\u2195\u2738",
+    "24": "\u2195\u2726",
+    "33": "\u2738\u2738",
+    "34": "\u2738\u2726",
+    "44": "\u2726\u2726"
+  },
+  "gem_names": {
+    "1": "Ruby",
+    "2": "Sapphire",
+    "3": "Emerald",
+    "4": "Citrine",
+    "5": "Amethyst",
+    "6": "Amber",
+    "7": "Obstacle"
+  },
+  "special_names": {
+    "1": "Row Blast",
+    "2": "Column Blast",
+    "3": "Bomb",
+    "4": "Chromatic Orb"
+  },
+  "mega_names": {
+    "11": "Triple Row Blast",
+    "12": "Cross Blast",
+    "13": "Row Bomb",
+    "14": "Row Storm",
+    "22": "Triple Column Blast",
+    "23": "Column Bomb",
+    "24": "Column Storm",
+    "33": "Mega Bomb",
+    "34": "Bomb Storm",
+    "44": "Chromatic Storm"
+  },
+  "particle_colors": {
+    "ambient": "FFFFFF",
+    "match_burst_bright": "FFFFFF",
+    "line_sweep": "FFD700",
+    "radial_wave_start": "FF6B00",
+    "radial_wave_end": "FFCC00",
+    "fusion_storm_start": "FFD700",
+    "fusion_storm_end": "FF6B00",
+    "mega_merge_sparks": "FFD700",
+    "mega_merge_bright": "FFFFFF",
+    "mega_activation": "FFD700",
+    "mega_activation_bright": "FFFFFF",
+    "near_miss_sparkle": "FFFFFF",
+    "defeat_dust_dark": "666666",
+    "defeat_dust_light": "999999"
+  },
+  "chromatic_rain_colors": [
+    "FF2D55", "007AFF", "34C759", "FFCC00", "AF52DE", "FF9500"
+  ],
+  "victory_confetti_colors": [
+    "FF2D55", "007AFF", "34C759", "FFCC00", "AF52DE", "FF9500"
+  ],
+  "background": {
+    "base": "0D0D14",
+    "calm_tint": "AA77DD",
+    "storm_tint": "DD8844",
+    "ripple_rgb": [80, 60, 120]
+  }
+}

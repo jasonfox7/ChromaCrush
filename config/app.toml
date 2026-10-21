@@ -1,0 +1,177 @@
+# ChromaCrush Application Configuration
+# Secrets (passwords, JWT secret, etc.) must be set via environment variables.
+# See .env.example for the full list of environment variables.
+
+[app]
+name = "ChromaCrush"
+version = "0.1.0"
+environment = "development"
+debug = true
+
+[database]
+host = "localhost"
+port = 5432
+name = "chromacrush"
+user = "chromacrush"
+# password = [secret] Set DATABASE_PASSWORD env var
+pool_size = 5
+
+[redis]
+host = "localhost"
+port = 6379
+key_prefix = "chromacrush:"
+
+[api]
+host = "0.0.0.0"
+port = 8000
+# Production should override via env var (API_CORS_ORIGINS)
+cors_origins = ["http://localhost:3000", "http://localhost:8080", "http://localhost:5000"]
+docs_enabled = true
+
+[api.rate_limit]
+requests_per_minute = 60
+burst_size = 10
+jwt_requests_per_minute = 60
+ip_requests_per_minute = 30
+
+[auth]
+# jwt_secret = [secret] Set AUTH_JWT_SECRET env var
+jwt_algorithm = "HS256"
+jwt_expiry_minutes = 60
+refresh_token_expiry_days = 30
+api_key_prefix = "cc_"
+api_key_length = 32
+bcrypt_rounds = 12
+password_min_length = 8
+rate_limit_requests = 100
+rate_limit_window_seconds = 60
+max_sessions_per_player = 5
+
+[game]
+board_width = 8
+board_height = 8
+gem_types = 6
+moves_per_match = 20
+min_match_length = 3
+
+[match]
+moves_per_player = 20
+timeout_hours = 72
+energy_cost = 1
+allow_concurrent = false
+max_concurrent = 1
+
+[board_gen]
+default_cascade_potential = 0.5
+default_near_miss_factor = 0.3
+max_generation_attempts = 100
+max_starting_specials = 3
+enable_near_miss = true
+competitive_cascade_potential = 0.4
+casual_cascade_potential = 0.6
+tutorial_cascade_potential = 0.7
+
+[scoring]
+base_points = 50
+chain_multipliers = [1.0, 1.5, 2.0, 2.5, 3.0]
+length_multipliers = [1.0, 2.0, 3.0, 4.0, 5.0]
+special_gem_creation_bonus = 100
+line_blast_activation_bonus = 50
+line_blast_per_gem = 25
+radial_bomb_activation_bonus = 100
+radial_bomb_per_gem = 30
+chromatic_orb_activation_bonus = 200
+chromatic_orb_per_gem = 40
+cascade_combo_threshold = 4
+cascade_combo_points_per_chain = 1000
+
+[special_gems]
+radial_bomb_radius = 1
+mega_bomb_radius = 2
+triple_line_count = 3
+chain_reaction_enabled = true
+
+[matchmaking]
+elo_initial = 1000
+elo_k_factor = 32
+queue_max_size = 10000
+elo_range_initial = 50
+elo_range_max = 500
+elo_expansion_interval_seconds = 10
+elo_expansion_step = 50
+match_timeout_seconds = 300
+queue_poll_interval_ms = 500
+
+[energy]
+max_hearts = 7
+regen_interval_minutes = 30
+bonus_overflow_limit = 3
+streak_reward_threshold_7 = 1
+streak_reward_threshold_14 = 2
+streak_reward_threshold_30 = 3
+streak_reward_repeat_interval = 7
+
+[player]
+username_min_length = 3
+username_max_length = 32
+username_pattern = "^[a-zA-Z0-9_]+$"
+
+[vault]
+shield_duration_hours = 8
+raid_cooldown_hours = 24
+raid_energy_cost = 1
+raid_success_base_chance = 0.7
+empty_vault_protection = true
+legendary_steal_chance_modifier = 0.5
+max_artifacts_per_player = 500
+
+[events]
+min_matches_for_rewards = 3
+allow_leave_after_match = false
+auto_finalize_delay_minutes = 15
+
+[ads]
+interstitial_cooldown_seconds = 180
+rewarded_cooldown_seconds = 60
+
+[payments]
+ad_free_product_id = "chromacrush_ad_free"
+ad_free_price_cents = 100
+ad_free_currency = "USD"
+intent_expiry_minutes = 30
+# -- App Store Server API v2 --
+# Override these via env vars: PAYMENTS_APPLE_KEY_ID, etc.
+apple_key_id = ""
+apple_issuer_id = ""
+apple_bundle_id = ""
+apple_private_key_path = ""
+# google_package_name = [required] Set in env-specific config or PAYMENTS_GOOGLE_PACKAGE_NAME env var
+# google_service_account_key = [secret] Set PAYMENTS_GOOGLE_SERVICE_ACCOUNT_KEY env var
+# webhook_apple_secret = [secret] Set PAYMENTS_WEBHOOK_APPLE_SECRET env var
+# webhook_google_secret = [secret] Set PAYMENTS_WEBHOOK_GOOGLE_SECRET env var
+allow_sandbox_purchases = false
+
+[bot_earnings]
+minimum_payout_cents = 1000
+attribution_share_percent = 30.0
+sync_lookback_days = 7
+max_date_range_days = 90
+payout_hold_hours = 72
+sync_batch_size = 100
+
+[websocket]
+enabled = true
+path = "/ws"
+heartbeat_interval_seconds = 30
+connection_timeout_seconds = 60
+max_connections_per_player = 3
+max_message_size_bytes = 65536
+rate_limit_messages_per_second = 10
+
+[logging]
+level = "INFO"
+format = "json"
+
+[features]
+experimental_near_miss_tuning = { enabled = false, lifecycle = "experimental" }
+vault_raids = { enabled = true, lifecycle = "stable" }

@@ -1,0 +1,140 @@
+---
+title: Effects & Filters
+description: Learn how to use audio effects and filters
+---
+
+## Overview
+
+*flutter_soloud* provides various audio effects and filters that can be applied globally to all sounds or individually to specific sound sources.
+
+## Available Filters
+
+- `echo` - Echo/delay effect [SoLoud documentation](https://solhsa.com/soloud/echofilter.html)
+- `freeverbFilter` - High quality reverb effect [SoLoud documentation](https://solhsa.com/soloud/freeverbfilter.html)
+- `biquadResonant` - Multi-mode filter (lowpass, highpass, bandpass) [SoLoud documentation](https://solhsa.com/soloud/biquadfilter.html)
+- `bassboost` - Low frequency enhancement [SoLoud documentation](https://solhsa.com/soloud/bassboostfilter.html)
+- `equalizer` - Multi-band equalizer [SoLoud sources](https://github.com/alnitak/flutter_soloud/blob/main/src/soloud/src/filter/soloud_eqfilter.cpp)
+- `flanger` - Classic modulation effect [SoLoud documentation](https://solhsa.com/soloud/flangerfilter.html)
+- `waveShaper` - Audio distortion/wave shaping [SoLoud documentation](https://solhsa.com/soloud/waveshaperfilter.html)
+- `lofi` - Bit depth and sample rate reduction [SoLoud documentation](https://solhsa.com/soloud/lofifilter.html)
+- `robotize` - Voice modulation effect [SoLoud documentation](https://solhsa.com/soloud/robotizefilter.html)
+- `pitchShifter` - Change pitch without affecting speed [flutter_soloud source](https://github.com/alnitak/flutter_soloud/blob/main/src/filters/pitch_shift_filter.cpp#L16)
+- `compressor` - Dynamic range compression [flutter_soloud source](https://github.com/alnitak/flutter_soloud/blob/main/src/filters/compressor.cpp#L24)
+- `limiter` - Peak volume control [flutter_soloud source](https://github.com/alnitak/flutter_soloud/blob/main/src/filters/limiter.cpp#L20)
+
+<Info>
+- Individual filters for sounds are not supported on Web platform.
+- *freeverb* supports only 2 channels. So using *freeverb* as global filter, the engine should be initializeded using the default 2 channels and when using it as sound filter it must be with 2 channels.
+</Info>
+
+## Global Filters
+
+Apply filters to all audio output:
+
+```dart
+// Initialize SoLoud with filters
+await SoLoud.instance.init();
+
+// Access filters through the filters property
+final filters = SoLoud.instance.filters;
+
+// Activate an effect
+filters.echoFilter.activate();
+
+// Configure parameters
+filters.echoFilter.delay.value = 0.2;
+filters.echoFilter.decay.value = 0.7;
+```
+
+### Parameter Control
+
+```dart
+// Fade parameter over time
+filters.echoFilter.delay.fadeFilterParameter(
+  to: 0.5,
+  time: Duration(milliseconds: 1000),
+);
+
+// Oscillate parameter
+filters.echoFilter.decay.oscillateFilterParameter(
+  from: 0.2,
+  to: 0.8,
+  time: Duration(milliseconds: 2000),
+);
+```
+
+## Common Filter Examples
+
+### Echo Effect
+
+```dart
+// Set up echo
+filters.echoFilter.activate();
+filters.echoFilter
+  ..delay.value = 0.2    // 200ms delay
+  ..decay.value = 0.7    // 70% decay
+  ..filter.value = 1.0;  // No filtering
+```
+
+### Bass Boost
+
+```dart
+// Enhance low frequencies
+filters.bassboostFilter.activate();
+filters.bassboostFilter
+  ..boost.value = 2.0;   // Double bass
+```
+
+### Lo-Fi Effect
+
+```dart
+// Add retro sound quality
+filters.lofiFilter.activate();
+filters.lofiFilter
+  ..sampleRate.value = 8000   // 8kHz sampling
+  ..bitDepth.value = 4;       // 4-bit depth
+```
+
+### Reverb
+
+```dart
+// Add space/room effect
+filters.freeverbFilter.activate();
+filters.freeverbFilter
+  ..roomSize.value = 0.8    // Large room
+  ..damping.value = 0.5     // Medium damping
+  ..width.value = 1.0;      // Full stereo width
+```
+
+## Dynamic Effects
+
+Create evolving soundscapes:
+
+```dart
+// Start with normal reverb
+filters.freeverbFilter.activate();
+filters.freeverbFilter.roomSize.value = 0.5;
+
+// Gradually increase room size
+filters.freeverbFilter.roomSize.fadeFilterParameter(
+  to: 0.9,
+  time: Duration(seconds: 3),
+);
+
+// Oscillate damping
+filters.freeverbFilter.damping.oscillateFilterParameter(
+  from: 0.2,
+  to: 0.8,
+  time: Duration(milliseconds: 2000),
+);
+```
+
+## Best Practices
+
+- Use filters sparingly to avoid CPU overhead
+- Be careful with feedback parameters in echo/reverb
+- Consider mobile device performance
+- Deactivate unused filters
+- Use parameter fading for smooth transitions
+- Test on various devices and platforms
+- Monitor CPU usage when using multiple filters

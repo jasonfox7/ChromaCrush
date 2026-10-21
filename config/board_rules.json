@@ -1,0 +1,102 @@
+{
+  "version": "1.0",
+  "board": {
+    "width": 8,
+    "height": 8,
+    "gem_types": 6,
+    "max_cascade_steps": 100,
+    "min_match_length": 3
+  },
+  "match_detection": {
+    "expansion_type": "flood_fill",
+    "special_creation_rules": [
+      {
+        "priority": 1,
+        "pattern": "t_or_l_shape",
+        "result_function": 4,
+        "placement": "intersection"
+      },
+      {
+        "priority": 2,
+        "pattern": "straight_match",
+        "min_length": 5,
+        "result_function": 3,
+        "placement": "center"
+      },
+      {
+        "priority": 3,
+        "pattern": "straight_match",
+        "min_length": 4,
+        "orientation": "horizontal",
+        "result_function": 1,
+        "placement": "middle"
+      },
+      {
+        "priority": 4,
+        "pattern": "straight_match",
+        "min_length": 4,
+        "orientation": "vertical",
+        "result_function": 2,
+        "placement": "middle"
+      }
+    ]
+  },
+  "special_gems": {
+    "functions": {
+      "1": {
+        "name": "LINE_BLAST_H",
+        "effect": { "select": "row" }
+      },
+      "2": {
+        "name": "LINE_BLAST_V",
+        "effect": { "select": "column" }
+      },
+      "3": {
+        "name": "RADIAL_BOMB",
+        "effect": { "select": "radius", "radius": 1 }
+      },
+      "4": {
+        "name": "CHROMATIC_ORB",
+        "effect": { "select": "color_match", "fallback": "most_common" }
+      }
+    },
+    "chain_reaction": {
+      "enabled": true,
+      "max_waves": 100,
+      "directions": "orthogonal"
+    }
+  },
+  "mega_gems": {
+    "attractions": {
+      "distance": 2,
+      "center_must_be_neutral": true,
+      "center_must_have_color": true,
+      "greedy": true,
+      "scan_directions": ["right", "down"]
+    },
+    "combos": {
+      "11": { "effect": { "select": "row", "count": 3, "centered": true } },
+      "12": { "effect": { "select": "cross" } },
+      "13": { "effect": { "select": "row", "count": 3, "centered": true } },
+      "14": { "effect": { "select": "color_match", "fallback": "most_common", "spawn_effect_at_each": "1" } },
+      "22": { "effect": { "select": "column", "count": 3, "centered": true } },
+      "23": { "effect": { "select": "column", "count": 3, "centered": true } },
+      "24": { "effect": { "select": "color_match", "fallback": "most_common", "spawn_effect_at_each": "2" } },
+      "33": { "effect": { "select": "radius", "radius": 2 } },
+      "34": { "effect": { "select": "color_match", "fallback": "most_common", "spawn_effect_at_each": "3" } },
+      "44": { "effect": { "select": "entire_board" } }
+    }
+  },
+  "obstacles": {
+    "color_value": 7,
+    "anchored": true,
+    "transmutation": {
+      "enabled": true,
+      "direction": "decrement"
+    },
+    "clearing_rules": {
+      "basic_glass": { "func": 0, "cleared_by": "any_special" },
+      "keyed": { "cleared_by": "matching_function", "mega_satisfies_components": true }
+    }
+  }
+}

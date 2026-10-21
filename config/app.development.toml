@@ -1,0 +1,9 @@
+# Development-only configuration overrides.
+# These values are NOT safe for production.
+# In production, use environment variables (see .env.example).
+
+[database]
+password = "chromacrush_dev"
+
+[auth]
+jwt_secret = "dev-secret-not-for-production-change-me"

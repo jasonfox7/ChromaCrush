@@ -1,0 +1,11333 @@
+[
+  {
+    "level": 1,
+    "moves": 30,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "moves": 29,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "moves": 29,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 5,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 4,
+    "moves": 28,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 3,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "moves": 28,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 5,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 6,
+    "moves": 27,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 7,
+    "moves": 27,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 8,
+    "moves": 26,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 9,
+    "moves": 26,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 10,
+    "moves": 23,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": true,
+    "heart_cost": 1,
+    "reward": {
+      "type": "card_pack",
+      "rarity": "common",
+      "count": 1
+    },
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 11,
+    "moves": 25,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 12,
+    "moves": 25,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 13,
+    "moves": 25,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 3,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 14,
+    "moves": 25,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 15,
+    "moves": 24,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 3,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 16,
+    "moves": 24,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 17,
+    "moves": 24,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 18,
+    "moves": 24,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 19,
+    "moves": 24,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 20,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": true,
+    "heart_cost": 1,
+    "reward": {
+      "type": "gold",
+      "amount": 1000
+    },
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 21,
+    "moves": 23,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 2
+      }
+    ]
+  },
+  {
+    "level": 22,
+    "moves": 23,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 2
+      }
+    ]
+  },
+  {
+    "level": 23,
+    "moves": 23,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 2
+      }
+    ]
+  },
+  {
+    "level": 24,
+    "moves": 23,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 2
+      }
+    ]
+  },
+  {
+    "level": 25,
+    "moves": 23,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 26,
+    "moves": 23,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 27,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 2
+      }
+    ]
+  },
+  {
+    "level": 28,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 2
+      }
+    ]
+  },
+  {
+    "level": 29,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 2
+      }
+    ]
+  },
+  {
+    "level": 30,
+    "moves": 20,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": true,
+    "heart_cost": 1,
+    "reward": {
+      "type": "card_pack",
+      "rarity": "rare",
+      "count": 1
+    },
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 31,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 32,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 33,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 3
+      }
+    ]
+  },
+  {
+    "level": 34,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      }
+    ]
+  },
+  {
+    "level": 35,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 36,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 3
+      }
+    ]
+  },
+  {
+    "level": 37,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 3
+      }
+    ]
+  },
+  {
+    "level": 38,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 39,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 40,
+    "moves": 19,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": true,
+    "heart_cost": 1,
+    "reward": {
+      "type": "gold",
+      "amount": 2000
+    },
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 41,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 42,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 3
+      }
+    ]
+  },
+  {
+    "level": 43,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 44,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 45,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 46,
+    "moves": 20,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      }
+    ]
+  },
+  {
+    "level": 47,
+    "moves": 20,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 3
+      }
+    ]
+  },
+  {
+    "level": 48,
+    "moves": 20,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 49,
+    "moves": 20,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 50,
+    "moves": 18,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": true,
+    "heart_cost": 1,
+    "reward": {
+      "type": "card_pack",
+      "rarity": "epic",
+      "count": 1
+    },
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 51,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 3
+      }
+    ]
+  },
+  {
+    "level": 52,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      }
+    ]
+  },
+  {
+    "level": 53,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ]
+  },
+  {
+    "level": 54,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      }
+    ]
+  },
+  {
+    "level": 55,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 3
+      }
+    ]
+  },
+  {
+    "level": 56,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ]
+  },
+  {
+    "level": 57,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 58,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 1
+      }
+    ]
+  },
+  {
+    "level": 59,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ]
+  },
+  {
+    "level": 60,
+    "moves": 19,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": true,
+    "heart_cost": 1,
+    "reward": {
+      "type": "gold",
+      "amount": 3000
+    },
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 3
+      }
+    ]
+  },
+  {
+    "level": 61,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 62,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 63,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 64,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 65,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      }
+    ]
+  },
+  {
+    "level": 66,
+    "moves": 20,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ]
+  },
+  {
+    "level": 67,
+    "moves": 20,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ]
+  },
+  {
+    "level": 68,
+    "moves": 20,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ]
+  },
+  {
+    "level": 69,
+    "moves": 20,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ]
+  },
+  {
+    "level": 70,
+    "moves": 18,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": true,
+    "heart_cost": 1,
+    "reward": {
+      "type": "mega_gem",
+      "item_id": "mega_hh_10",
+      "count": 1
+    },
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ]
+  },
+  {
+    "level": 71,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 3
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.15,
+      "func": 0,
+      "max_per_turn": 1
+    }
+  },
+  {
+    "level": 72,
+    "moves": 22,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 2
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.17,
+      "func": 0,
+      "max_per_turn": 1
+    }
+  },
+  {
+    "level": 73,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 2
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.18,
+      "func": 0,
+      "max_per_turn": 1
+    }
+  },
+  {
+    "level": 74,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 2
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.2,
+      "func": 0,
+      "max_per_turn": 1
+    }
+  },
+  {
+    "level": 75,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 2
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.22,
+      "func": 0,
+      "max_per_turn": 1
+    }
+  },
+  {
+    "level": 76,
+    "moves": 21,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.23,
+      "func": 0,
+      "max_per_turn": 2
+    }
+  },
+  {
+    "level": 77,
+    "moves": 20,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 2
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.25,
+      "func": 0,
+      "max_per_turn": 2
+    }
+  },
+  {
+    "level": 78,
+    "moves": 20,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.27,
+      "func": 0,
+      "max_per_turn": 2
+    }
+  },
+  {
+    "level": 79,
+    "moves": 20,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 2
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.28,
+      "func": 0,
+      "max_per_turn": 2
+    }
+  },
+  {
+    "level": 80,
+    "moves": 17,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": true,
+    "heart_cost": 1,
+    "reward": {
+      "type": "gold",
+      "amount": 4000
+    },
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.3,
+      "func": 0,
+      "max_per_turn": 2
+    }
+  },
+  {
+    "level": 81,
+    "moves": 19,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 3
+      }
+    ],
+    "obstacle_regen": {
+      "after_moves": 8
+    }
+  },
+  {
+    "level": 82,
+    "moves": 19,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 2
+      }
+    ],
+    "obstacle_regen": {
+      "after_moves": 8
+    }
+  },
+  {
+    "level": 83,
+    "moves": 19,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 1
+      }
+    ],
+    "obstacle_regen": {
+      "after_moves": 8
+    }
+  },
+  {
+    "level": 84,
+    "moves": 18,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 3
+      }
+    ],
+    "obstacle_regen": {
+      "after_moves": 8
+    }
+  },
+  {
+    "level": 85,
+    "moves": 18,
+    "gem_colors": 6,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 1
+      }
+    ],
+    "obstacle_regen": {
+      "after_moves": 8
+    }
+  },
+  {
+    "level": 86,
+    "moves": 20,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      }
+    ],
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 87,
+    "moves": 20,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 2
+      }
+    ],
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 88,
+    "moves": 19,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 3
+      }
+    ],
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 89,
+    "moves": 19,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 1
+      }
+    ],
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 90,
+    "moves": 17,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": true,
+    "heart_cost": 1,
+    "reward": {
+      "type": "card_pack",
+      "rarity": "legendary",
+      "count": 1
+    },
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 3
+      }
+    ],
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 91,
+    "moves": 19,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 1
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.25,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 92,
+    "moves": 18,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 3
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.25,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 93,
+    "moves": 18,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.25,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 94,
+    "moves": 18,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 2
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.25,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 95,
+    "moves": 17,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 3
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.25,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 96,
+    "moves": 17,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 3
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.25,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 97,
+    "moves": 17,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 1
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.25,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 98,
+    "moves": 17,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 1
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.25,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 99,
+    "moves": 16,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.25,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 100,
+    "moves": 14,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": true,
+    "heart_cost": 1,
+    "reward": {
+      "type": "gold",
+      "amount": 5000
+    },
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.25,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 101,
+    "moves": 20,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.25,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 102,
+    "moves": 20,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.26,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 103,
+    "moves": 20,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.27,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 104,
+    "moves": 19,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.27,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 105,
+    "moves": 19,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.28,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 106,
+    "moves": 19,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.29,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 107,
+    "moves": 19,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.3,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 108,
+    "moves": 19,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.31,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 109,
+    "moves": 18,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.31,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 110,
+    "moves": 16,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": true,
+    "heart_cost": 1,
+    "reward": {
+      "type": "mega_gem",
+      "item_id": "mega_hh_10",
+      "count": 10
+    },
+    "obstacles": [
+      {
+        "row": 0,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 0,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 0
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.32,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 6
+    }
+  },
+  {
+    "level": 111,
+    "moves": 18,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.33,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 4
+    }
+  },
+  {
+    "level": 112,
+    "moves": 18,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 2
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.34,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 4
+    }
+  },
+  {
+    "level": 113,
+    "moves": 17,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 2
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.34,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 4
+    }
+  },
+  {
+    "level": 114,
+    "moves": 17,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 3
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.35,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 4
+    }
+  },
+  {
+    "level": 115,
+    "moves": 17,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 1
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.36,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 4
+    }
+  },
+  {
+    "level": 116,
+    "moves": 17,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 2
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.37,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 4
+    }
+  },
+  {
+    "level": 117,
+    "moves": 17,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.38,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 4
+    }
+  },
+  {
+    "level": 118,
+    "moves": 16,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 2
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.38,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 4
+    }
+  },
+  {
+    "level": 119,
+    "moves": 16,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": false,
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 1,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 1,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 2,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 2,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 6,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 2
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "func": 2
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.39,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 4
+    }
+  },
+  {
+    "level": 120,
+    "moves": 14,
+    "gem_colors": 5,
+    "objective": "clear_all_obstacles",
+    "is_checkpoint": true,
+    "heart_cost": 1,
+    "reward": {
+      "type": "gold",
+      "amount": 10000
+    },
+    "obstacles": [
+      {
+        "row": 1,
+        "col": 1,
+        "func": 1
+      },
+      {
+        "row": 1,
+        "col": 6,
+        "func": 2
+      },
+      {
+        "row": 2,
+        "col": 2,
+        "func": 3
+      },
+      {
+        "row": 2,
+        "col": 5,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 0,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 1,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 2,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 3,
+        "func": 1
+      },
+      {
+        "row": 3,
+        "col": 4,
+        "func": 2
+      },
+      {
+        "row": 3,
+        "col": 5,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 6,
+        "func": 10
+      },
+      {
+        "row": 3,
+        "col": 7,
+        "func": 10
+      },
+      {
+        "row": 4,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 4,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 5,
+        "col": 1,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "func": 2
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "func": 3
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "func": 3
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "func": 1
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "func": 2
+      }
+    ],
+    "obstacle_spread": {
+      "chance": 0.4,
+      "func": 0,
+      "max_per_turn": 2
+    },
+    "obstacle_regen": {
+      "after_moves": 4
+    }
+  }
+]
